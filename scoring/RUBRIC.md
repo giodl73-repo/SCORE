@@ -1,6 +1,6 @@
-# SCORE Rubric v1.0
+# SCORE Rubric v1.1
 
-*Seeded 2026-04-23. Initial release.*
+*Seeded 2026-04-25. v1.1: Cluster A (structural self-proof) + Cluster B (structural mode classification — developmental / modal-static / mathematical-formal / minimalist-additive).*
 
 **Forward-only. Amendments ratified from clustered innovations (2+ across 2+ works).**  
 **Advisory threshold: < 60. Binding threshold: 60+.**
@@ -21,15 +21,27 @@
 
 ## S — Structure (25 pts)
 
-Does the architecture serve the music? Structure is the largest single dimension because formal decisions are the hardest problem in composition and the most consequential. But "well-structured" means different things in different traditions. A fugue and a twelve-bar blues are both well-structured when their architecture is right for what they are doing — not when they match the same template.
+Does the architecture serve the music? Structure is the largest single dimension because formal decisions are the hardest problem in composition and the most consequential. "Well-structured" means different things in different traditions — and in different architectural approaches within the same tradition.
 
-Before applying anchors, identify the tradition. Score the work against the demands of that tradition's formal conventions, not against a universal standard.
+**Step 0 — Identify the structural approach (Cluster B, v1.1):**
 
-### Anchors
+Before applying anchors, classify how the piece builds its architecture:
+
+| Approach | Definition | What "inevitable" means |
+|----------|-----------|------------------------|
+| **Developmental** | Structure built through transformation and development of material; harmonic tension and resolution; motifs becoming something else | No section could be elsewhere; development is necessary; the coda earns its length |
+| **Modal / Static** | Structure built through sustained tonal gravity; the mode or drone creates the container; material exists within a center rather than moving away from and back to it | The modal center is established and maintained without compromise; the stasis is productive, not empty; every departure from center is intentional |
+| **Mathematical / Formal** | Structure built through formal relationships — palindrome, retrograde, augmentation, inversion, strict canon | The formal relationship is consistently applied; the mathematics produces musical meaning, not just structural correctness |
+| **Minimalist / Additive** | Structure built through gradual change — phase relationships, slow addition or subtraction, textural evolution | Each stage earns the next; change is perceptible but unhurried; the overall arc is felt even when individual steps are imperceptible |
+| **Improvised / Found** *(Cluster C, forming)* | Structure that emerges in performance rather than being composed in advance; the architecture is discovered in real time | See Cluster C note below — pending ratification |
+
+*Cluster A note (v1.1): Some works prove their structural claim by being the demonstration of that claim — the palindrome proves that musical meaning survives temporal inversion by surviving it; the four-note motif proves it contains a symphony by becoming one. When a work's Structure IS its argument, score at the top of the anchor band if the structural proof is fully achieved. Confirmed: Bach Crab Canon (0001) + Beethoven 5th (0003).*
+
+### Anchors (applied within the identified structural approach)
 
 | Score | Anchor |
 |-------|--------|
-| 22–25 | The form is inevitable — no section could be elsewhere without loss; the architecture creates momentum; the opening earns the close; in developmental forms, the development is necessary, not ornamental; in repetitive forms, the repetition is structural and every variation earns its departure |
+| 22–25 | The architecture is exactly right for the approach. Developmental: development is necessary; the coda earns its length. Modal: the center is established, maintained, and productive. Mathematical: the formal relationship is fully realized and produces musical meaning. Minimalist: each stage earns the next; the arc is felt. The structure feels inevitable because it is. |
 | 16–21 | Strong structure with minor issues — one section that could tighten, one transition that doesn't fully earn its place, one moment where the form's logic breaks; the overall shape is right even where details aren't |
 | 10–15 | The piece knows roughly where it's going but takes unnecessary detours; the destination is identifiable but the route has dead ends; the form is chosen correctly but not fully delivered |
 | 4–9 | Structural problems — sections in wrong order, missing transitions, no clear destination, development that doesn't develop; the material assembled but not built |
@@ -40,6 +52,8 @@ Before applying anchors, identify the tradition. Score the work against the dema
 ## C — Craft (25 pts)
 
 Are the technical choices precisely made? Craft is the second largest dimension because technical execution is the medium through which every other dimension is expressed. The highest Originality cannot survive incompetent voice leading. The deepest Resonance is undermined by harmonic choices that produce unintended effects. Craft is not about following rules — it is about knowing the tradition's grammar well enough to deploy it intentionally.
+
+*Cluster C note — Improvised Craft (forming, v1.1):* The current Craft anchors are written-craft anchors: they assess harmony, voice leading, and technical choices as if those choices were made before performance and could be revised. For improvised music (bebop, jazz improvisation, raga), the technical choices are made at tempo, in real time, without revision. Improvised Craft requires different criteria: real-time harmonic navigation (playing the right note on the change without hesitation), motor execution at tempo (technical facility that doesn't impede expression), and melodic logic under pressure (the improvised solo has a shape that was found in the moment). SCORE is working toward a Craft mode classification analogous to the Structure mode classification. Pending: one more improvised work to confirm the cluster. Works featuring improvisation should note "improvised Craft criteria applied" and score based on the quality of real-time choices rather than the correctness of pre-composed ones.*
 
 Craft is tradition-specific. What constitutes correct voice leading in a Bach chorale is not what is expected in a Coltrane improvisation. What counts as acceptable parallel motion in a folk song is different from what is tolerated in strict counterpoint. Score Craft against the standards of the tradition being worked in, not against a universal technical standard.
 
@@ -123,4 +137,5 @@ Amendments never reduce the point totals or change the dimension weights without
 
 | Version | Date | Trigger | Change |
 |---------|------|---------|--------|
-| v1.0 | 2026-04-23 | Initial | Five-dimension 100-point rubric seeded: Structure (25), Craft (25), Originality (15), Resonance (15), Economy (20) |
+| v1.0 | 2026-04-25 | Initial | Five-dimension 100-point rubric seeded: Structure (25), Craft (25), Originality (15), Resonance (15), Economy (20) |
+| v1.1 | 2026-04-25 | Cluster A + Cluster B | (A) Structure: structural self-proof note added to 22–25 anchor — works that prove their formal claim by being the demonstration score at the top band when fully achieved. Confirmed: Bach Crab Canon (0001) + Beethoven 5th (0003). (B) Structure: Step 0 (structural approach classification) added — Developmental / Modal-Static / Mathematical-Formal / Minimalist-Additive; score against the demands of the identified approach. Confirmed: So What (0002, modal) + Spiegel (0004, minimalist). Cluster C (improvised Craft) seeded from Parker Ko-Ko (0005) — pending one more work. Forward-only. |
