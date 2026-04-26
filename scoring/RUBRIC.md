@@ -1,0 +1,126 @@
+# SCORE Rubric v1.0
+
+*Seeded 2026-04-23. Initial release.*
+
+**Forward-only. Amendments ratified from clustered innovations (2+ across 2+ works).**  
+**Advisory threshold: < 60. Binding threshold: 60+.**
+
+---
+
+## The SCORE Framework (100 points total)
+
+| | Dimension | Pts | Core question |
+|-|-----------|-----|---------------|
+| **S** | **Structure** | 25 | Does the architecture serve the music? Does the form hold? Is the sequence inevitable? |
+| **C** | **Craft** | 25 | Are the technical choices — harmony, voice leading, rhythm, texture, orchestration — precisely made? |
+| **O** | **Originality** | 15 | Does the work say something within its tradition that hasn't been said this way? |
+| **R** | **Resonance** | 15 | Does it create the intended effect in the listener? |
+| **E** | **Economy** | 20 | Does every note earn its place? |
+
+---
+
+## S — Structure (25 pts)
+
+Does the architecture serve the music? Structure is the largest single dimension because formal decisions are the hardest problem in composition and the most consequential. But "well-structured" means different things in different traditions. A fugue and a twelve-bar blues are both well-structured when their architecture is right for what they are doing — not when they match the same template.
+
+Before applying anchors, identify the tradition. Score the work against the demands of that tradition's formal conventions, not against a universal standard.
+
+### Anchors
+
+| Score | Anchor |
+|-------|--------|
+| 22–25 | The form is inevitable — no section could be elsewhere without loss; the architecture creates momentum; the opening earns the close; in developmental forms, the development is necessary, not ornamental; in repetitive forms, the repetition is structural and every variation earns its departure |
+| 16–21 | Strong structure with minor issues — one section that could tighten, one transition that doesn't fully earn its place, one moment where the form's logic breaks; the overall shape is right even where details aren't |
+| 10–15 | The piece knows roughly where it's going but takes unnecessary detours; the destination is identifiable but the route has dead ends; the form is chosen correctly but not fully delivered |
+| 4–9 | Structural problems — sections in wrong order, missing transitions, no clear destination, development that doesn't develop; the material assembled but not built |
+| 0–3 | No discernible structural principle; the piece is a collection of sounds without architecture; the form chosen (if any) is violated without interesting consequence |
+
+---
+
+## C — Craft (25 pts)
+
+Are the technical choices precisely made? Craft is the second largest dimension because technical execution is the medium through which every other dimension is expressed. The highest Originality cannot survive incompetent voice leading. The deepest Resonance is undermined by harmonic choices that produce unintended effects. Craft is not about following rules — it is about knowing the tradition's grammar well enough to deploy it intentionally.
+
+Craft is tradition-specific. What constitutes correct voice leading in a Bach chorale is not what is expected in a Coltrane improvisation. What counts as acceptable parallel motion in a folk song is different from what is tolerated in strict counterpoint. Score Craft against the standards of the tradition being worked in, not against a universal technical standard.
+
+### Anchors
+
+| Score | Anchor |
+|-------|--------|
+| 22–25 | The technical choices are exactly right — voice leading is smooth and purposeful, harmonic language is consistent and expressive, rhythm and meter serve the music, texture is appropriate to the tradition and the moment, orchestration (if applicable) makes the most of its forces; every technical decision serves the musical result |
+| 16–21 | High craft with minor lapses — one awkward voice crossing, one harmony that doesn't resolve as expected, one rhythmic choice that fights the phrase rather than serves it; the technical command is evident even where it slips |
+| 10–15 | Craft sufficient to be played/sung but with detectable technical weaknesses that a skilled practitioner would notice and that detract from the music's effectiveness; the tradition's grammar is understood but not fully mastered |
+| 4–9 | Significant craft failures — parallel fifths in a tradition where they're wrong, rhythmic writing that cannot be performed as notated, harmonic choices that produce unintended dissonance, voice leading that works against the music's direction |
+| 0–3 | The technical execution is incompetent; the piece cannot be realized as written, or its technical failings make it impossible to hear the music beneath them; the tradition's grammar has been misunderstood |
+
+---
+
+## O — Originality (15 pts)
+
+Does the work say something within its tradition that hasn't been said this way? Originality does not mean novelty for its own sake, nor does it mean rejecting tradition. The most original works are often the most deeply rooted — they have absorbed the tradition completely enough to speak from within it, in a voice that could only be this composer's, at this moment. Originality without tradition is noise. Tradition without originality is imitation.
+
+### Anchors
+
+| Score | Anchor |
+|-------|--------|
+| 13–15 | The work says something within its tradition that could only be said this way, at this moment, by this composer; it is recognizable as belonging to a tradition and simultaneously unmistakable as itself; the distinctive choices are not eccentric but necessary |
+| 9–12 | Solid original contribution — identifiable voice, some distinctive choices — but the most memorable moments are close to tradition rather than transforming it; the work is its own without being unmistakable |
+| 5–8 | Competent work within the tradition without notable originality; well-made but easily confused with the work of others in the same tradition; the tradition is the only voice present |
+| 2–4 | Derivative — primarily assembles existing moves without distinctive purpose; the tradition's conventions are followed rather than inhabited; nothing could not have been predicted from the tradition's existing works |
+| 0–1 | No discernible original element; pure imitation or pastiche without intent; the work adds nothing to our understanding of what the tradition can do |
+
+---
+
+## R — Resonance (15 pts)
+
+Does the work create the intended effect in the listener? Resonance is not about the listener's personal taste — it is about whether the music accomplishes what it set out to accomplish. A requiem that produces detachment has failed Resonance; a lullaby that produces anxiety has failed Resonance; a dance that produces stillness has failed Resonance. The question is not whether the listener enjoys it, but whether the intended emotional or experiential effect arrives.
+
+Identify the intended effect before scoring. A piece that succeeds at producing an unusual or unfamiliar effect — transcendence, dread, spiritual stillness, political urgency — scores highly even if that effect is not universally accessible. The question is whether the effect is achieved for a listener who is open to it.
+
+### Anchors
+
+| Score | Anchor |
+|-------|--------|
+| 13–15 | The work creates its intended effect clearly and completely — joy produces joy, grief produces grief, transcendence produces something close to it, tension is felt before it resolves, release arrives with its full weight; the emotional communication is direct and complete |
+| 9–12 | Solid resonance with minor misfires — the emotional register is right but slightly muted, or one passage undercuts the surrounding effect, or the piece nearly achieves its intended climax but pulls back at the crucial moment |
+| 5–8 | Partial resonance — the music communicates something but the primary intended effect fails or only partially fires; technically present but emotionally inert; the listener can deduce what the piece intends without feeling it |
+| 2–4 | Wrong effect — the piece produces confusion, detachment, or something actively contrary to its apparent intention; a passage meant to be consoling is unsettling, a moment meant to be triumphant is hollow |
+| 0–1 | No detectable resonance; the piece is acoustically present but emotionally absent; nothing is communicated beyond the sounds themselves |
+
+---
+
+## E — Economy (20 pts)
+
+Does every note earn its place? Economy is not about brevity — a symphony can be economical; a twelve-bar blues can be padded. Economy is about the ratio of musical meaning to musical material. The economical composer has considered every note and found that it must be there; the uneconomical composer has accepted every note that arrived. The enemy of economy is not length; it is the redundant phrase, the extra repetition that adds nothing, the texture that fills without developing.
+
+Economy is tradition-specific. In minimalism, a note that repeats for thirty minutes may be doing essential structural work; in a jazz standard head, the same phrase repeated beyond its structural function is waste. In a fugue, a third statement of the subject in an unexpected register earns its place; the same subject stated a fifth time in the same register does not. Score Economy against the tradition's own conventions for what constitutes necessary and unnecessary material.
+
+### Anchors
+
+| Score | Anchor |
+|-------|--------|
+| 17–20 | Every note earns its place — nothing could be removed without loss; silence is used purposefully; repetition is structural, not accidental; development is necessary, not filling; the piece is exactly as long as it needs to be |
+| 12–16 | High economy with minor excess — a phrase repeated one time more than necessary, a transition that could be shorter, a texture that fills without developing, a coda that overstays; the excess is real but not structurally damaging |
+| 7–11 | Detectable excess — passages that mark time without developing the material, repetition without evolution, sequences that continue beyond their useful life, transitions that circle rather than connect |
+| 3–6 | Significant excess — the piece would be meaningfully better at two-thirds the length; large sections that could be cut without loss; the composer has not yet revised for economy |
+| 0–2 | The piece is dominated by filler, passage-work, or unearned repetition; the work expands to fill available time rather than contracting to serve its purpose; removing half the notes would not remove half the music |
+
+---
+
+## Amendment Protocol
+
+Amendments are ratified from clustered innovations:
+
+1. A panel session identifies a structural technique or rubric gap — logged as an Innovation in `scoring/INNOVATIONS.md`
+2. When 2+ innovations point at the same rubric gap across 2+ works, a cluster is named
+3. A cluster triggers a proposed amendment
+4. The amendment is ratified and applied forward-only — works already completed are not rescored unless a named rescore batch is declared
+5. The rubric version is bumped (v1.0 → v1.1 → etc.)
+
+Amendments never reduce the point totals or change the dimension weights without exceptional cause. Amendments add nuance to anchors, add modifiers, or clarify scoring conventions.
+
+## Amendment History
+
+| Version | Date | Trigger | Change |
+|---------|------|---------|--------|
+| v1.0 | 2026-04-23 | Initial | Five-dimension 100-point rubric seeded: Structure (25), Craft (25), Originality (15), Resonance (15), Economy (20) |
