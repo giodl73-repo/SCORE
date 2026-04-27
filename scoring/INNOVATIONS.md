@@ -140,6 +140,14 @@ Innovation #21 (Synthesis Originality) seeds a new cluster: works that synthesiz
 
 ---
 
+## Panel: 0011-original-jazz-standard (2026-04-23)
+
+**#23** `0011-original-jazz-standard : Miles (primary: "the bridge has to change what the final A means, not just contrast it"); Sondheim (confirming: "the bridge changes something — the idea migrates from harmony to melody — and that makes the final A different from the first A"); Music Theorist (analytical confirmation: the bridge's mediant departure and return via A-section cadential material constitutes a motivated formal departure, not decorative contrast) -- BRIDGE-AS-NECESSITY TEST -- Structure -- In the AABA jazz standard, the bridge is formally necessary only if it changes what the final A means to a listener who has heard both A sections. A bridge that provides harmonic contrast without altering the listener's relationship to the A material has failed its formal function; a bridge that migrates the piece's distinctive idea to a new level (harmonic → melodic, or vice versa), or that reveals something the A sections implied but did not state, has succeeded. The test: "Could the final A be what it is — compressed, arrived, or changed — without the bridge?" If yes, the bridge failed. If no, the bridge was necessary. This test is distinct from the existing Structure anchors, which address whether sections are in the right order but do not distinguish between a bridge that contrasts and a bridge that transforms. Named from the first original SCORE composition (0011); confirmed by three reviewers from three angles. Candidate for Structure anchor annotation.`
+
+**#24** `0011-original-jazz-standard : Performer (primary: "the chord chart's Economy is assessed by players who will add notes through improvisation; the six-chord opening is compositionally economical but creates improvisation density that may produce the opposite of economy in performance"); Miles (implicit: "the piece is economical in the chart; whether that economy survives the bandstand depends on the players"); Ellington (confirming from a casting angle: "the piece is cast for patience — a player without patience will fill those two bars and lose the idea") -- ECONOMY DIVERGENCE: SCORE ECONOMY VS. PERFORMANCE ECONOMY -- Economy -- In jazz-standards and other improvised-music genres, the chord chart's Economy (the minimum required changes to state what the piece says) and the performance's Economy (what the soloist does with those changes) are distinct categories that may diverge; a harmonically economical chart that provides dense changes in key passages may produce dense improvisation in those passages, converting compositional economy into performance excess; conversely, a chart with space (few changes, long sustained harmonies) may produce economical improvisation even if the chart itself is sparse to the point of omission; the Economy dimension, which assesses the score (Innovation #18, Economy of the Prelude Form), does not currently distinguish between Economy as achieved in the score and Economy as achievable in performance; for improvised genres, both should be considered. Named from the first original SCORE composition (0011); implicit in the Performer's assessment, named explicitly here.`
+
+---
+
 ## Cluster Status (after work 0009)
 
 **Cluster A: Structural Self-Proof** -- UNCHANGED (works 0001, 0003, 0008)
@@ -158,7 +166,7 @@ Innovation #21 (Synthesis Originality) seeds a new cluster: works that synthesiz
 **Cluster F: Devotional Music** -- SEEDED (work 0009)
 Innovation #19 (purpose-as-resonance-category) seeds a new cluster: works whose primary purpose is devotional offering rather than audience communication. *A Love Supreme* is the seed. The cluster addresses the Resonance dimension's assumption that the intended effect is on the listener, which fails for devotional music. Needs one additional devotional work to confirm.
 
-## Innovation Summary (all works 0001-0010)
+## Innovation Summary (all works 0001-0011)
 
 | # | Name | Work | Dimension | Cluster |
 |---|------|------|-----------|---------|
@@ -184,3 +192,5 @@ Innovation #19 (purpose-as-resonance-category) seeds a new cluster: works whose 
 | 20 | Twelve-key transposition as structural universality claim | 0009 | Structure | -- |
 | 21 | Synthesis originality | 0010 | Originality | E (seed) |
 | 22 | Harmonic emotional precision | 0010 | Craft | -- |
+| 23 | Bridge-as-necessity test | 0011 | Structure | -- |
+| 24 | Economy divergence: score vs. performance | 0011 | Economy | -- |

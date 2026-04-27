@@ -1,8 +1,8 @@
 ﻿# SCORE Tracker
 
 **Rubric version:** v1.2 -- Initial. Five-dimension 100-point rubric seeded: Structure (25), Craft (25), Originality (15), Resonance (15), Economy (20).
-**Works completed:** 10 (0001-0010, all complete)
-**Traditions documented:** 0 (formally; 9 represented in corpus: fugue/canon, modal jazz, symphony, minimalism/tintinnabuli, bebop, jazz-orchestra, musical-theater, keyboard, classical/popular synthesis)
+**Works completed:** 11 (0001-0011, all complete)
+**Traditions documented:** 0 (formally; 10 represented in corpus: fugue/canon, modal jazz, symphony, minimalism/tintinnabuli, bebop, jazz-orchestra, musical-theater, keyboard, classical/popular synthesis, jazz-standard [original])
 **Personas ready:** 10
 **Skills:** 8
 **Active clusters:** 3 confirmed (A expanded to 3 works, B, C confirmed), 3 seeded (D, E, F)
@@ -15,8 +15,8 @@
 | Personas | 10 (founding cohort: Bach, Beethoven, Mozart, Coltrane, Miles, Sondheim, Part, Ellington, Mingus, Bernstein) |
 | Rubric | v1.1 active; v1.2 proposed (Cluster A expanded to 3 works; Cluster C confirmed — ratification required; Clusters D, E, F seeded) |
 | Traditions | 0 formally documented (9 represented in corpus) |
-| Works | 10 complete (0001-0010, all complete) |
-| Innovations logged | 22 (#1-4 from 0001; #5-6 from 0002; #7-8 from 0003; #9-10 from 0004; #11-12 from 0005; #13-14 from 0006; #15-16 from 0007; #17-18 from 0008; #19-20 from 0009; #21-22 from 0010) |
+| Works | 11 complete (0001-0011, all complete) |
+| Innovations logged | 24 (#1-4 from 0001; #5-6 from 0002; #7-8 from 0003; #9-10 from 0004; #11-12 from 0005; #13-14 from 0006; #15-16 from 0007; #17-18 from 0008; #19-20 from 0009; #21-22 from 0010; #23-24 from 0011) |
 | Amendment clusters | Cluster A EXPANDED (Structural Self-Proof, works 0001+0003+0008); Cluster B CONFIRMED (Non-Developmental Architecture, works 0002+0004); Cluster C CONFIRMED (Improvised Music, works 0005+0009 -- ratification now required); Cluster D SEEDED (Dramatic Music, work 0007); Cluster E SEEDED (Synthesis Music, work 0010); Cluster F SEEDED (Devotional Music, work 0009) |
 | Skills | 8 (score-brief, score-tradition, score-analyze, score-compose, score-panel, score-innovation, score-amendment, score-handoff) |
 | Lenses | 5 (music-theorist, performer, listener, historian, producer-engineer) |
@@ -35,6 +35,7 @@
 | 0008 | bach-wtc-prelude | keyboard | canonical-import | PASS | 94.4 |
 | 0009 | coltrane-love-supreme | spiritual jazz | canonical-import | PASS | 90.4 |
 | 0010 | bernstein-somewhere | classical/popular synthesis | canonical-import | PASS | 90.2 |
+| 0011 | original-jazz-standard | jazz-standard (original) | original-composition | PASS | 84.9 |
 
 ## Score Distribution
 
@@ -50,6 +51,17 @@
 | 0008-bach-wtc-prelude | 23.8 | 24.8 | 12.3 | 13.7 | 19.9 | 94.4 |
 | 0009-coltrane-love-supreme | 22.9 | 22.1 | 13.7 | 14.1 | 17.7 | 90.4 |
 | 0010-bernstein-somewhere | 22.4 | 23.3 | 13.1 | 13.6 | 17.8 | 90.2 |
+| 0011-original-jazz-standard | 21.65 | 21.45 | 11.85 | 12.75 | 17.20 | 84.9 |
+
+## Notable Findings (work 0011)
+
+**Score:** 84.9 — PASS. Lands just below the 85+ target; within the margin of rounding (Sondheim scores 86, all others score 83–85).  
+**First original composition in SCORE corpus.** All ten prior works are canonical imports (pre-existing works scored retrospectively). Work 0011 is the first work composed explicitly using the rubric as a compositional tool.  
+**The rubric worked.** The brief's explicit rubric targets (bridge-as-necessity, economy, distinctive idea placed and developed, emotional character decided before composing) are all present and are the primary sources of the score. The target was 85+; the piece lands at 84.9 — near-target on first draft.  
+**Innovation #23 (Bridge-as-Necessity Test):** Named by three reviewers from three angles. Identifies a structural gap in the AABA form assessment: the existing Structure anchors do not distinguish between a bridge that contrasts and a bridge that transforms. The test — "Could the final A be what it is without the bridge?" — is a candidate for Structure anchor annotation.  
+**Innovation #24 (Economy Divergence: Score vs. Performance):** First innovation to emerge from an original composition rather than a canonical import. The distinction between score Economy (what the composer writes) and performance Economy (what the improviser does with it) reveals a gap in the Economy dimension that canonical works could not reveal, because canonical works are scored retrospectively.  
+**Lowest Originality score in the corpus:** 11.85 weighted (range: 11–12 across panel). Reflects the genuine difficulty of achieving the highest Originality tier in a tradition as codified as the jazz standard. The distinctive idea is genuinely original; the mediant bridge and the conventional return bars are less so. The jazz-standard tradition's economy of originality differs from a through-composed tradition's.  
+**Panel consensus highest:** Structure and Originality (all reviewers within 1 point). Panel spread largest: Resonance (Performer at 12 vs. others at 13) — reflects the legitimate concern that the piece's emotional character depends partly on the rhythm section's voicing execution.  
 
 ## Notable Findings (founding sprint, works 0001-0005)
 
@@ -107,6 +119,8 @@
 | 20 | Twelve-key transposition as structural universality claim | 0009 | Structure | -- |
 | 21 | Synthesis Originality | 0010 | Originality | E (seed) |
 | 22 | Harmonic Emotional Precision | 0010 | Craft | -- |
+| 23 | Bridge-as-Necessity Test | 0011 | Structure | -- |
+| 24 | Economy Divergence: Score vs. Performance | 0011 | Economy | -- |
 
 ## Amendment History
 
