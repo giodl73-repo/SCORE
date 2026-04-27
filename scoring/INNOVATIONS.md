@@ -194,3 +194,66 @@ Innovation #19 (purpose-as-resonance-category) seeds a new cluster: works whose 
 | 22 | Harmonic emotional precision | 0010 | Craft | -- |
 | 23 | Bridge-as-necessity test | 0011 | Structure | -- |
 | 24 | Economy divergence: score vs. performance | 0011 | Economy | -- |
+| 25 | Rhythm as dramatic rhythm | 0012 | Craft, Structure | D (confirmed) |
+| 26 | The rest as dramatic event | 0012 | Craft, Economy | D (confirmed) |
+| 27 | The improvised score-marking as founding gesture | 0013 | Craft, Originality | E (confirmed) |
+| 28 | Synthesis completeness | 0013 | Originality | E (confirmed) |
+| 29 | Originality through simultaneous rupture | 0014 | Originality, Structure | -- |
+| 30 | Historical rupture as Originality evidence | 0014 | Originality | -- |
+| 31 | Non-Western Craft vocabulary | 0015 | Craft | -- |
+| 32 | The alap as Structure | 0015 | Structure | -- |
+
+---
+
+## Panel: 0012-sondheim-send-in-clowns (2026-04-23)
+
+**#25** `0012-sondheim-send-in-clowns : Sondheim (primary: "the metric hesitations enact what Desirée cannot say — 'we were never on the same beat'"); Bernstein (confirming: "the metric disruptions are calibrated to the text's emotional rhythm, not to an abstract compositional scheme"); Performer (naming the performance challenge: "the singer must feel the dropped beat not as a metric error but as the moment Desirée runs out of words") -- RHYTHM AS DRAMATIC RHYTHM -- Craft, Structure -- When phrase irregularities and metric disruptions encode the character's emotional state (hesitation, interruption, timing failure) rather than being purely musical choices, the rhythm becomes the drama's notation; distinct from prosody (stress alignment) and text-painting (music illustrating lyric); the rhythmic structure embodies the character's experience of time; in "Send in the Clowns," the dropped beats ARE Desirée's temporal displacement; if you regularized the meter, the character would not be present — the character IS the metric irregularity. Cluster D confirmation.`
+
+**#26** `0012-sondheim-send-in-clowns : Pärt (primary: "the rests are music; the character not speaking is more precise than speaking"); Sondheim (confirming from inside); Listener (phenomenological confirmation: "the silence after 'clowns' says something that no note could say"); Performer (practical confirmation: "a performer who fills the rests has misunderstood the song") -- THE REST AS DRAMATIC EVENT -- Craft, Economy -- In dramatic music, silence can be the most precise Craft choice available; the rest is not absence of music but the character not speaking; distinct from structural rests, breathing rests, and preparatory rests; the dramatic rest communicates something specific about the character's state that notes cannot; Economy: removing it would remove music, not silence. Cluster D confirmation.`
+
+---
+
+## Panel: 0013-gershwin-rhapsody-blue (2026-04-23)
+
+**#27** `0013-gershwin-rhapsody-blue : Bernstein (primary: "Gershwin's ear — his ability to hear the improvised glissando as the right thing and ratify it — is itself a synthesis act"); Ellington (confirming: "a different kind of creative act than either pure composition or pure improvisation"); Historian (historical framing: "the jazz practice of improvisation meeting the classical practice of composition, in the moment of the creative decision") -- THE IMPROVISED SCORE-MARKING AS FOUNDING GESTURE -- Craft, Originality -- A distinct creative mode in which a composer encounters an improvised passage, recognizes it as better than what was composed, and ratifies it as the composed text; neither compose the passage nor improvise freely but a third mode: the composer's ear operating at the intersection, recognizing rightness in the improvised choice without regularizing it; the glissando opening of the Rhapsody is the canonical instance; available only to composers with deep enough knowledge of improvisation to recognize the right improvised choice. Cluster E confirmation.`
+
+**#28** `0013-gershwin-rhapsody-blue : Bernstein (primary: "synthesis-by-juxtaposition rather than synthesis-by-integration"), Ellington (naming from inside jazz: "visitors in a classical house"), Bach (naming from inside classical: "the container is classical") -- SYNTHESIS COMPLETENESS -- Originality -- A synthesis work is complete when neither source tradition could recognize itself as primary; test: can you remove either tradition's primary structural contribution and still have the essential work? If yes, the synthesis is incomplete; Rhapsody in Blue is the canonical instance of incomplete synthesis (classical architecture primary, jazz coloring secondary); incomplete synthesis occupies 11-13 Originality range; complete synthesis occupies 13-15 range. Cluster E confirmation.`
+
+---
+
+## Panel: 0014-stravinsky-rite-spring (2026-04-23)
+
+**#29** `0014-stravinsky-rite-spring : Beethoven (primary: "breaking six conventions simultaneously creates a new space that no incremental development could have reached"), Miles (confirming from Economy angle: "each violation of convention earns its violation"), Music Theorist (analytical specification: six conventions broken simultaneously), Bach (naming from inside the broken tradition: "departure from knowledge rather than departure from ignorance"), Historian (historical confirmation: the paradigm shift confirms the rupture was genuine) -- ORIGINALITY THROUGH SIMULTANEOUS RUPTURE -- Originality, Structure -- When a work breaks multiple established conventions simultaneously, it creates a new artistic space that no incremental development within the existing tradition could have reached; categorically different from extending a tradition or departing in one respect; the canonical instance is the Rite of Spring (1913): polytonal harmony, irregular meter, extreme register, static repetition, abandonment of 19th-century expressive convention — all broken at once; justifies ceiling Originality scores (14-15) that cannot be assigned to works that extend their tradition however brilliantly.`
+
+**#30** `0014-stravinsky-rite-spring : Historian (primary: "the premiere riot documents an audience-calibration gap; the paradigm shift confirms ceiling Originality"), Beethoven (confirming from inside revolutionary experience), Bach (confirming from reception side) -- HISTORICAL RUPTURE AS ORIGINALITY EVIDENCE -- Originality -- When a work causes a paradigm shift — when subsequent composers must either embrace, reject, or find an alternative to its structural logic — this is evidence of ceiling Originality at the moment of creation; the rubric scores Originality at the moment of creation, not in retrospect; historical rupture evidence confirms rather than produces the ceiling score; the test: did subsequent composers have to take a position on this work? The premiere riot is not evidence of failure but of audience-calibration gap.`
+
+---
+
+## Panel: 0015-shankar-raga-yaman (2026-04-23)
+
+**#31** `0015-shankar-raga-yaman : Pärt (primary: "the rubric's Craft vocabulary does not apply here; the Craft of the alap is grammatical fidelity + expressive depth + patience to reveal rather than demonstrate"); Coltrane (confirming: "the raga tradition's Craft demands were no less rigorous than my own — only different"); Music Theorist (formal specification: tradition-specific Craft criteria must be explicitly stated); Miles (confirming from Economy angle: "the discipline behind the economy is Craft in any tradition"); Historian (historical context) -- NON-WESTERN CRAFT VOCABULARY -- Craft -- The technical mastery in non-Western musical traditions is real and demanding but uses different technical concepts than Western harmony and voice leading; proposed rubric note: when scoring Craft for non-Western music, the reviewer must (a) identify the tradition's Craft criteria, (b) explicitly state them, and (c) assess the work against those criteria rather than Western standards; extends Cluster C (Improvised Craft mode) to traditions outside Western music entirely.`
+
+**#32** `0015-shankar-raga-yaman : Pärt (primary: "the alap is architecture: the performer moves from lower to upper register, revealing the raga's character at each level"); Coltrane (confirming: "the alap is the structural foundation, not the introduction; everything in the gat is a consequence of what was established in the alap"); Music Theorist (analytical specification: "modal-revelatory structure requires a Step 0 sub-type of its own"); Miles (confirming from real-time architecture angle) -- THE ALAP AS STRUCTURE -- Structure -- Unmetered, fully improvised exploration of a modal space, organized by the logic of which aspects of the modal space to develop and in what order, constitutes a form of structure; not captured by any current Step 0 sub-type; proposed Step 0 addition: Modal-Revelatory — structure built through progressive disclosure of a modal identity, organized by the grammar of which notes and phrases reveal the modal character and in what sequence; canonical instance: the alap of Raga Yaman as performed by Ravi Shankar.`
+
+---
+
+## Cluster Status (after works 0012-0016)
+
+**Cluster A: Structural Self-Proof** -- UNCHANGED (works 0001, 0003, 0008)
+Note: Work 0014 (Rite of Spring) may constitute a fourth Cluster A instance via "structural self-proof through rupture" — the work proves that the 19th-century tradition had reached its limits by being the demonstration of that proof. This was noted by Beethoven but not declared a Cluster A confirmation; requires panel review.
+
+**Cluster B: Non-Developmental Architecture** -- UNCHANGED (works 0002, 0004)
+
+**Cluster C: Improvised Music** -- CONFIRMED (works 0005, 0009) -- ratified v1.2
+
+**Cluster D: Dramatic-Functional Craft** -- CONFIRMED (works 0007, 0012)
+Three independent namings at work 0012 (Sondheim, Bernstein, Pärt) confirm Cluster D. Innovations #25 and #26 are Cluster D confirmations. Amendment language drafted in 0012 SUMMARY.md. Ratification required for v1.3.
+
+**Cluster E: Synthesis Originality** -- CONFIRMED (works 0010, 0013)
+Three independent namings at work 0013 (Bernstein, Ellington, Bach) confirm Cluster E. Innovations #27 and #28 are Cluster E confirmations. Critical nuance: incomplete synthesis (11-13 Originality) vs. complete synthesis (13-15 Originality). Amendment language drafted in 0013 SUMMARY.md. Ratification required for v1.3.
+
+**Cluster F: Devotional Music** -- UNCHANGED (work 0009 only). Still needs one additional devotional work to confirm.
+
+**New structural sub-types proposed (for v1.3 Step 0):**
+- Developmental-through-rupture (from work 0014): structure built through maximum convention-breaking that creates a new starting point
+- Modal-Revelatory (from work 0015): structure built through progressive disclosure of a modal identity

@@ -1,11 +1,11 @@
 ﻿# SCORE Tracker
 
-**Rubric version:** v1.2 -- Initial. Five-dimension 100-point rubric seeded: Structure (25), Craft (25), Originality (15), Resonance (15), Economy (20).
-**Works completed:** 11 (0001-0011, all complete)
-**Traditions documented:** 0 (formally; 10 represented in corpus: fugue/canon, modal jazz, symphony, minimalism/tintinnabuli, bebop, jazz-orchestra, musical-theater, keyboard, classical/popular synthesis, jazz-standard [original])
+**Rubric version:** v1.2 (active) -- v1.3 amendment ratification required (Clusters D + E confirmed; new Step 0 sub-types proposed)
+**Works completed:** 16 (0001-0016, all complete)
+**Traditions documented:** 0 (formally; 12 represented in corpus: fugue/canon, modal jazz, symphony, minimalism/tintinnabuli, bebop, jazz-orchestra, musical-theater, keyboard, classical/popular synthesis, jazz-standard [original], jazz/classical synthesis, Hindustani classical [raga])
 **Personas ready:** 10
 **Skills:** 8
-**Active clusters:** 3 confirmed (A expanded to 3 works, B, C confirmed), 3 seeded (D, E, F)
+**Active clusters:** 5 confirmed (A expanded to 3 works, B, C, D, E confirmed), 1 seeded (F)
 
 ## Status
 
@@ -13,11 +13,11 @@
 |-------|--------|
 | Scaffolding | complete |
 | Personas | 10 (founding cohort: Bach, Beethoven, Mozart, Coltrane, Miles, Sondheim, Part, Ellington, Mingus, Bernstein) |
-| Rubric | v1.1 active; v1.2 proposed (Cluster A expanded to 3 works; Cluster C confirmed — ratification required; Clusters D, E, F seeded) |
-| Traditions | 0 formally documented (9 represented in corpus) |
-| Works | 11 complete (0001-0011, all complete) |
-| Innovations logged | 24 (#1-4 from 0001; #5-6 from 0002; #7-8 from 0003; #9-10 from 0004; #11-12 from 0005; #13-14 from 0006; #15-16 from 0007; #17-18 from 0008; #19-20 from 0009; #21-22 from 0010; #23-24 from 0011) |
-| Amendment clusters | Cluster A EXPANDED (Structural Self-Proof, works 0001+0003+0008); Cluster B CONFIRMED (Non-Developmental Architecture, works 0002+0004); Cluster C CONFIRMED (Improvised Music, works 0005+0009 -- ratification now required); Cluster D SEEDED (Dramatic Music, work 0007); Cluster E SEEDED (Synthesis Music, work 0010); Cluster F SEEDED (Devotional Music, work 0009) |
+| Rubric | v1.2 active; v1.3 proposed (Clusters D + E confirmed; new Step 0 sub-types: developmental-through-rupture, modal-revelatory; Non-Western Craft note; Dramatic-Functional Craft ratification; Synthesis Completeness tier) |
+| Traditions | 0 formally documented (12 represented in corpus) |
+| Works | 16 complete (0001-0016, all complete) |
+| Innovations logged | 32 (#1-4 from 0001; #5-6 from 0002; #7-8 from 0003; #9-10 from 0004; #11-12 from 0005; #13-14 from 0006; #15-16 from 0007; #17-18 from 0008; #19-20 from 0009; #21-22 from 0010; #23-24 from 0011; #25-26 from 0012; #27-28 from 0013; #29-30 from 0014; #31-32 from 0015) |
+| Amendment clusters | Cluster A CONFIRMED (Structural Self-Proof, works 0001+0003+0008; 0014 possible 4th instance under review); Cluster B CONFIRMED (Non-Developmental Architecture, works 0002+0004); Cluster C CONFIRMED (Improvised Music, works 0005+0009 — ratified v1.2); Cluster D CONFIRMED (Dramatic-Functional Craft, works 0007+0012 — ratification required v1.3); Cluster E CONFIRMED (Synthesis Originality, works 0010+0013 — ratification required v1.3); Cluster F SEEDED (Devotional Music, work 0009) |
 | Skills | 8 (score-brief, score-tradition, score-analyze, score-compose, score-panel, score-innovation, score-amendment, score-handoff) |
 | Lenses | 5 (music-theorist, performer, listener, historian, producer-engineer) |
 
@@ -36,6 +36,11 @@
 | 0009 | coltrane-love-supreme | spiritual jazz | canonical-import | PASS | 90.4 |
 | 0010 | bernstein-somewhere | classical/popular synthesis | canonical-import | PASS | 90.2 |
 | 0011 | original-jazz-standard | jazz-standard (original) | original-composition | PASS | 84.9 |
+| 0012 | sondheim-send-in-clowns | musical-theater | canonical-import | PASS | 92.0 |
+| 0013 | gershwin-rhapsody-blue | jazz/classical synthesis | canonical-import | PASS | 84.35 |
+| 0014 | stravinsky-rite-spring | modern classical | canonical-import | PASS | 90.1 |
+| 0015 | shankar-raga-yaman | Hindustani classical (raga) | canonical-import | PASS | 88.35 |
+| 0016 | original-jazz-v2 | jazz-standard (original, revision) | original-composition | PASS | 89.25 |
 
 ## Score Distribution
 
@@ -52,6 +57,25 @@
 | 0009-coltrane-love-supreme | 22.9 | 22.1 | 13.7 | 14.1 | 17.7 | 90.4 |
 | 0010-bernstein-somewhere | 22.4 | 23.3 | 13.1 | 13.6 | 17.8 | 90.2 |
 | 0011-original-jazz-standard | 21.65 | 21.45 | 11.85 | 12.75 | 17.20 | 84.9 |
+| 0012-sondheim-send-in-clowns | 23.35 | 23.70 | 12.55 | 14.00 | 18.65 | 92.0 |
+| 0013-gershwin-rhapsody-blue | 20.45 | 21.50 | 13.10 | 12.75 | 16.70 | 84.35 |
+| 0014-stravinsky-rite-spring | 21.70 | 22.70 | 15.00 | 12.90 | 18.05 | 90.10 |
+| 0015-shankar-raga-yaman | 22.50 | 22.45 | 11.25 | 13.55 | 18.65 | 88.35 |
+| 0016-original-jazz-v2 | 23.10 | 22.85 | 11.90 | 13.75 | 17.80 | 89.25 |
+
+## Notable Findings (works 0012-0016)
+
+**CLUSTER D CONFIRMED (work 0012 — "Send in the Clowns"):** Three independent namings of the Dramatic-Functional Craft criterion (Sondheim, Bernstein, Pärt) at work 0012 confirm Cluster D. Seed was work 0007 ("Being Alive"). Amendment language drafted. Ratification required for v1.3. Innovations #25 (Rhythm as Dramatic Rhythm) and #26 (The Rest as Dramatic Event) are the Cluster D confirmations.
+
+**CLUSTER E CONFIRMED (work 0013 — "Rhapsody in Blue"):** Three independent namings of synthesis originality criterion (Bernstein, Ellington, Bach) at work 0013 confirm Cluster E. Seed was work 0010 ("Somewhere"). Critical nuance introduced: incomplete synthesis (classical architecture primary, jazz coloring secondary) = 11-13 Originality range; complete synthesis (neither tradition recognizes itself as primary) = 13-15 range. Amendment language drafted. Ratification required for v1.3. Innovations #27 (Improvised Score-Marking as Founding Gesture) and #28 (Synthesis Completeness) are the Cluster E confirmations.
+
+**FIRST UNANIMOUS ORIGINALITY CEILING (work 0014 — "Rite of Spring"):** All five reviewers score Originality 15/15. First full-panel ceiling score in SCORE corpus on any dimension. The work establishes that ceiling Originality requires simultaneous rupture of multiple conventions (Innovation #29), which creates a new space no incremental development could reach. Historical rupture evidence (premiere riot, paradigm shift) confirms rather than produces the ceiling score (Innovation #30). Work 0014 also proposes a new Step 0 sub-type: developmental-through-rupture.
+
+**FIRST NON-WESTERN WORK (work 0015 — Raga Yaman):** Three rubric modifications required: (1) Craft dimension needs Non-Western Craft vocabulary note (Innovation #31) — the raga tradition's Craft criteria (raga grammar fidelity, meend, gamak, layakari) must be assessed against the tradition's own standards; (2) Structure Step 0 needs new sub-type: Modal-Revelatory — the alap as structure (Innovation #32); (3) Originality dimension needs interpretive vs. compositional originality distinction — interpretive originality at ceiling ≈ 11-12 range. Score 88.35 — within expected range.
+
+**REVISION WORKED (work 0016 — "The Long Way Back" v2):** Rubric-guided revision from 84.9 (work 0011) to 89.25 (work 0016) — +4.35 points. All predicted dimension movements confirmed: Structure +1.45 (bridge-as-necessity test now fully satisfied), Craft +1.40 (bridge peak characterized), Resonance +1.00 (emotional arc complete), Economy +0.60 (bridge melody serves harmony). Originality unchanged (+0.05 rounding) — the revision is correctly a Craft achievement, not an Originality achievement. This confirms the rubric as a compositional revision tool: the diagnostic precision in session 0011 accurately identified the weakness; the revision addressed only that weakness; the panel confirmed the improvement.
+
+**Score summary (0012-0016):** 92.0 / 84.35 / 90.1 / 88.35 / 89.25. All PASS. Range: 84.35-92.0.
 
 ## Notable Findings (work 0011)
 
@@ -121,6 +145,14 @@
 | 22 | Harmonic Emotional Precision | 0010 | Craft | -- |
 | 23 | Bridge-as-Necessity Test | 0011 | Structure | -- |
 | 24 | Economy Divergence: Score vs. Performance | 0011 | Economy | -- |
+| 25 | Rhythm as Dramatic Rhythm | 0012 | Craft, Structure | D (confirmed) |
+| 26 | The Rest as Dramatic Event | 0012 | Craft, Economy | D (confirmed) |
+| 27 | The Improvised Score-Marking as Founding Gesture | 0013 | Craft, Originality | E (confirmed) |
+| 28 | Synthesis Completeness | 0013 | Originality | E (confirmed) |
+| 29 | Originality through Simultaneous Rupture | 0014 | Originality, Structure | -- |
+| 30 | Historical Rupture as Originality Evidence | 0014 | Originality | -- |
+| 31 | Non-Western Craft Vocabulary | 0015 | Craft | -- |
+| 32 | The Alap as Structure | 0015 | Structure | -- |
 
 ## Amendment History
 
@@ -128,4 +160,5 @@
 |---------|------|---------|--------|
 | v1.0 | 2026-04-23 | Initial | Five-dimension 100-point rubric seeded: Structure (25), Craft (25), Originality (15), Resonance (15), Economy (20) |
 | v1.1 | 2026-04-25 | Cluster A + B confirmation | Add non-developmental architecture and structural self-proof language to Structure anchors; add improvisation mode proposal to Craft (pending Cluster C confirmation) |
-| v1.2 | proposed | Cluster A 3rd confirmation + Clusters C confirmed + D/E/F seeded | Update Cluster A confirmed works to include 0008; ratify Cluster C — add permanent improvisation mode to Craft dimension; add synthesis originality note to Originality anchors; add harmonic-emotional-precision and dramatic-functional-Craft notes to Craft anchors; add harmony-as-melody / harmonic-following to Resonance anchors; add prior-exclusion economy note to Economy anchors; add purpose classification note to Resonance anchors (Cluster F seed); add universality-through-exhaustion sub-type to Structure Step 0 |
+| v1.2 | 2026-04-25 | Cluster A 3rd confirmation + Clusters C confirmed + D/E/F seeded | Update Cluster A confirmed works to include 0008; ratify Cluster C — add permanent improvisation mode to Craft dimension; add synthesis originality note to Originality anchors; add harmonic-emotional-precision and dramatic-functional-Craft notes to Craft anchors; add harmony-as-melody / harmonic-following to Resonance anchors; add prior-exclusion economy note to Economy anchors; add purpose classification note to Resonance anchors (Cluster F seed); add universality-through-exhaustion sub-type to Structure Step 0 |
+| v1.3 | proposed (2026-04-23) | Clusters D + E confirmed + Originality ceiling + non-Western tradition | (D) Craft: Dramatic-Functional Craft criterion ratified — for dramatic music, primary Craft question is whether each technical choice serves the character's emotional state at this moment; confirmed: 0007 (seed) + 0012 (confirmation). (E) Originality: Synthesis Completeness tier added — incomplete synthesis (11-13) vs. complete synthesis (13-15); test: can you remove either tradition's primary structural contribution and still have the essential work? Confirmed: 0010 (more complete) + 0013 (incomplete). Structure Step 0: two new sub-types proposed: (a) Developmental-through-rupture — structure built through maximum convention-breaking that creates a new starting point (canonical: Rite of Spring, 0014); (b) Modal-Revelatory — structure built through progressive disclosure of a modal identity organized by grammar of which notes and phrases reveal the modal character (canonical: alap of Raga Yaman, 0015). Craft note: Non-Western Craft Vocabulary — when scoring Craft for non-Western music, the reviewer must identify the tradition's Craft criteria, state them explicitly, and assess the work against those criteria rather than Western harmonic/voice-leading standards. Originality: interpretive vs. compositional originality distinction — interpretive originality at ceiling ≈ 11-12 range. Forward-only. |
