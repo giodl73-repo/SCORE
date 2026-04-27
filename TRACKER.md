@@ -1,6 +1,6 @@
 ﻿# SCORE Tracker
 
-**Rubric version:** v1.2 (active) -- v1.3 amendment ratification required (Clusters D + E confirmed; new Step 0 sub-types proposed)
+**Rubric version:** v1.3 (active) -- v1.3 amendment ratification required (Clusters D + E confirmed; new Step 0 sub-types proposed)
 **Works completed:** 16 (0001-0016, all complete)
 **Traditions documented:** 0 (formally; 12 represented in corpus: fugue/canon, modal jazz, symphony, minimalism/tintinnabuli, bebop, jazz-orchestra, musical-theater, keyboard, classical/popular synthesis, jazz-standard [original], jazz/classical synthesis, Hindustani classical [raga])
 **Personas ready:** 10
