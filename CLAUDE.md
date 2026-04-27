@@ -86,7 +86,7 @@ work: NNNN-slug          # for work artifacts; omit for non-work files
 stage: brief|composition|description|panel|handoff
 tradition: tradition-slug
 author: persona-slug (or 'human')
-rubric_version: v1.0
+rubric_version: v1.3
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
 sources: []
@@ -99,6 +99,15 @@ sources: []
 2. Confirm rubric version via `scoring/RUBRIC.md` header
 3. Report in one sentence: rubric version + most recent work + top priority
 4. Do NOT re-read full CLAUDE.md or TRACKER unless instructed
+
+## Current State
+
+- **Rubric version:** v1.3 (active) — 6 dimensions amended across 4 versions; 7 structural types in Step 0; 5 clusters confirmed (A, B, C, D, E); 1 cluster seeded (F — devotional Resonance, needs 1 more work)
+- **Works completed:** 16 (0001–0016, all PASS) — 13 canonical + 3 original
+- **Score range:** 82.1 (So What, 0002) — 95.1 (Beethoven 5th, 0003)
+- **Innovations logged:** 32 (#1–32)
+- **Latest handoff:** `docs/handoff/2026-04-25-session-2.md`
+- **Top priority:** Confirm Cluster F (devotional Resonance) — candidate: Bach "Erbarme Dich" (St. Matthew Passion)
 
 ## Editorial Rules
 
