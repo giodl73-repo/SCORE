@@ -52,6 +52,46 @@ When 2+ innovations point at the same rubric gap across 2+ works, a cluster is n
 
 ---
 
+## Panel: 0006-ellington-koko (2026-04-23)
+
+**#13** `0006-ellington-koko : Ellington (primary), Mingus (confirming), Bach (naming the gap), Music Theorist (technical specification) -- CRAFT-AS-CASTING -- Craft -- The compositional strategy of writing for specific named players rather than instrumental sections; treating the irreplaceable individual voice as the primary unit of orchestral composition; parts calibrated to player-specific characteristics (tone, technique, breathing capacity, vibrato) that require biographical and acoustic knowledge to fully assess. The Craft dimension assesses technical execution against the tradition's grammar; it does not currently have language for the compositional strategy of voice-specific calibration, where excellence depends on knowledge of the specific player for whom the part was written. Candidate for Craft annotation in jazz-orchestra and orchestral traditions.`
+
+**#14** `0006-ellington-koko : Ellington (primary), Mingus (naming the test), Historian (historical confirmation) -- BLUES-AS-SIMULTANEOUSLY-HONORED-AND-TRANSCENDED -- Structure, Originality -- The structural use of the blues form as both foundation and departure point, such that the traditional form is present but converted into something the tradition itself would not fully recognize; the 12-bar changes function as architectural scaffold for orchestral argument rather than as the primary vessel of emotional content; the piece respects the blues by working within its changes and transcends it by what it builds on those changes. The Originality dimension treats the blues as a pre-existing form; it does not distinguish between conventional use of a traditional form and use of that form as raw structural material for a different compositional argument.`
+
+---
+
+## Panel: 0007-sondheim-being-alive (2026-04-23)
+
+**#15** `0007-sondheim-being-alive : Sondheim (primary and explicit), Bernstein (confirming), Coltrane (converging from different angle), Performer (implicit) -- DRAMATIC-FUNCTIONAL CRAFT -- Craft -- In musical theater, Craft cannot be assessed separately from dramatic function; a technically correct song that fails the character constitutes a Craft failure; technical excellence is in service of dramatic function rather than constituting the primary criterion; the primary Craft question in musical theater is: does this technical choice serve this character at this moment? Parallels the Improvised Craft criteria (Cluster C, works 0005): both identify a tradition-specific craft mode that the current Craft dimension does not adequately capture. Candidate seed for Cluster D (Dramatic Music).`
+
+**#16** `0007-sondheim-being-alive : Sondheim (primary: "the same argument made simultaneously"), Bernstein (harmonic language as dramatic psychology), Coltrane (both media in search) -- LYRIC-NOTE UNITY -- Craft, Economy -- The phenomenon in which lyric and musical phrase constitute a single argument rather than parallel tracks; neither illustrates the other; both enact the same gesture simultaneously in different media; the combined effect is something neither could produce alone. The rubric acknowledges "text-music alignment" but does not describe the deeper lyric-note unity in which music and lyric constitute the same content expressed in different media. Distinct from word-painting (music illustrating lyric) and from accompaniment (music supporting lyric); the music IS the same content as the lyric, in a different medium.`
+
+---
+
+## Panel: 0008-bach-wtc-prelude (2026-04-23)
+
+**#17** `0008-bach-wtc-prelude : Bach ("the harmonic journey is sufficient"), Pärt ("what remains is essential"), Miles ("the harmony is the melody"), Listener (phenomenological confirmation) -- HARMONY-AS-MELODY -- Structure, Resonance -- The harmonic progression itself performs the melodic function; the ear follows chord changes rather than a melodic line; harmonic sequence constitutes sufficient musical content for complete expression without supplementary melody; the listener engages in harmonic-following as a distinct mode of musical engagement. The Resonance dimension should note that the absence of melody does not constitute an absence of musical content for works whose effect depends on harmonic-following. Cluster A third confirmation (alongside palindromic proof at 0001 and developmental proof at 0003): harmonic-completeness proof.`
+
+**#18** `0008-bach-wtc-prelude : Pärt (primary: "economy includes the economy of the constraint itself"), Bach ("the decision to maintain the pattern is the economical act"), Miles ("the economy of not-adding-melody is the economic act") -- ECONOMY OF THE PRELUDE FORM -- Economy -- The prelude tradition's single-affect, single-texture, brevity conventions function as prior-exclusion economy: decisions made before composition begins (no melodic supplementation, consistent texture throughout) generate compositional economy that is tradition-mandated rather than achieved through per-note discipline; the economy of constraint versus the economy of discipline. Extends and generalizes Innovation #2 (Bidirectional Economy, from 0001): both name economy that is a property of the formal constraint rather than of compositional discipline applied note-by-note. Candidate for unified rubric annotation on constraint-generated economy.`
+
+---
+
+## Panel: 0009-coltrane-love-supreme (2026-04-23)
+
+**#19** `0009-coltrane-love-supreme : Coltrane (primary: named from inside as composer, with certainty beyond doubt); Miles (named as aesthetic limitation of current dimension); Mingus (named from moral-seriousness frame without religious framing) -- PURPOSE-AS-RESONANCE-CATEGORY -- Resonance -- The Resonance dimension asks whether the music creates its intended effect in the listener; this question assumes the music's primary purpose is communication with the listener; for devotional music — music offered to something larger than the performance, whose primary audience is not the concert listener — the relevant question is not "does the intended effect arrive in the listener" but "is the offering genuine"; *A Love Supreme* is not primarily addressed to the listener; it is addressed to God; the listener is present at an act of offering rather than the recipient of it; the Resonance dimension requires a purpose classification distinguishing (a) audience-communication, (b) interior-expression, (c) devotional offering; for category (c), the primary criterion is genuineness of the offering, not listener reception; Coltrane scores Resonance 15 with the explicit statement that certainty rather than generosity is the operative principle. Seeds Cluster F (Devotional Music).`
+
+**#20** `0009-coltrane-love-supreme : Coltrane (primary: named from compositional intention — "the argument is not that this motif develops into something else; the argument is that this motif is the same in all twelve keys simultaneously"); Music Theorist (formal analytical label proposed: "universality through exhaustion"); Miles and Mingus (convergent acceptance without formal naming) -- TWELVE-KEY TRANSPOSITION AS STRUCTURAL UNIVERSALITY CLAIM -- Structure -- Playing a motif through all twelve chromatic keys in sequence is not jazz development, not classical modulation, not modal expansion; it is a structural declaration that the material belongs to all keys simultaneously; the structural principle is "universality through exhaustion" — completing something in all its possible forms to argue that the thing being named transcends any single form; this is distinct from all four existing Step 0 structural approaches: not Developmental (material changes), not Modal/Static (one center sustained), not Mathematical/Formal (formal relationship produces musical meaning rather than semantic argument), not Minimalist/Additive (gradual change); the Structure dimension's Step 0 requires a fifth sub-type: Universality-through-Exhaustion — all possibilities visited to demonstrate that no single instance contains the thing being named; canonical instance: twelve-key transposition in A Love Supreme, Part I.`
+
+---
+
+## Panel: 0010-bernstein-somewhere (2026-04-23)
+
+**#21** `0010-bernstein-somewhere : Bernstein (primary: "the creation of a space neither source can produce alone"), Sondheim (confirming with qualification), Bach (skeptical but acknowledging) -- SYNTHESIS ORIGINALITY -- Originality -- The claim that borrowing simultaneously from two traditions to create something neither could produce alone constitutes a distinct form of originality; not derivation from two sources but creation of a synthesis space impossible within either tradition; requires mastery of both traditions plus creative judgment to combine them in a way that produces genuine novelty. The Originality anchors assess originality against a single tradition; a work that synthesizes two traditions is slightly derivative of each individually and genuinely original in the synthesis space. The rubric needs language for synthesis originality as a distinct category. Candidate seed for Cluster E (Synthesis Music).`
+
+**#22** `0010-bernstein-somewhere : Bernstein (primary: "emotionally precise harmonic moment"), Sondheim (confirming: the climax chord creates the imagined place), Performer (technical specification: non-resolution is the Craft achievement) -- HARMONIC EMOTIONAL PRECISION -- Craft -- A specific harmonic choice that produces a specific, nameable emotional effect impossible through any other harmonic choice at that moment; the chord is emotionally precise rather than merely conventionally expressive; exemplified by the climax chord of "Somewhere," which expresses longing for a real-but-unreachable place by being harmonically real but tonally unresolved, present but pointing toward something it does not become. Intentional harmonic irresolution as a distinct Craft technique, not a voice-leading lapse. The Craft anchors need a note on intentional non-resolution as a Craft achievement when it produces a specific, nameable emotional effect.`
+
+---
+
 ## Cluster Status (after founding sprint, works 0001-0005)
 
 **Cluster A: Structural Self-Proof** -- CONFIRMED (works 0001, 0003)
@@ -65,3 +105,82 @@ Amendment status: PROPOSED for v1.1 ratification alongside Cluster A.
 **Cluster C: Improvised Music** -- SEEDED (work 0005)
 Works in which the primary creative act is real-time improvisation rather than pre-planned composition. Requires improvisation mode in Craft dimension and extension of Structure anchors for real-time architecture. Needs one additional work to confirm.
 Amendment status: PROPOSED; held pending Cluster C confirmation.
+
+---
+
+## Cluster Status (after works 0006-0010, excluding 0009)
+
+**Cluster A: Structural Self-Proof** -- EXPANDED to three works (0001, 0003, 0008)
+Third confirmation: WTC Prelude No. 1 (0008) proves "harmony without melody constitutes complete musical expression" by being the demonstration of that proof. Mechanisms now confirmed: palindromic proof (0001), developmental proof (0003), harmonic-completeness proof (0008). The cluster's scope is confirmed as covering structural self-proof through any formal mechanism that constitutes the proof. Innovation #17 is the third cluster confirmation. Amendment proposed: update v1.1 Cluster A note to include 0008.
+
+**Cluster B: Non-Developmental Architecture** -- UNCHANGED (works 0002, 0004)
+Works 0006, 0007, 0008, 0010 are all developmental in structure; no new Cluster B works added in this sprint.
+
+**Cluster C: Improvised Music** -- STILL SEEDED (work 0005 only)
+Works 0006-0010 are all composed rather than improvised. Cluster C still needs one additional improvised work to confirm.
+
+**Cluster D: Dramatic Music** -- SEEDED (work 0007)
+Innovation #15 (Dramatic-functional Craft) seeds a new cluster: works in musical theater and other dramatic genres where Craft cannot be assessed separately from dramatic function. "Being Alive" is the seed. Needs one additional musical theater work to confirm.
+
+**Cluster E: Synthesis Music** -- SEEDED (work 0010)
+Innovation #21 (Synthesis Originality) seeds a new cluster: works that synthesize two distinct traditions to produce something impossible within either tradition alone. "Somewhere" is the seed. Needs one additional synthesis work to confirm.
+
+## Innovation Summary (works 0006-0010, excluding 0009)
+
+| # | Name | Work | Dimension | Cluster |
+|---|------|------|-----------|---------|
+| 13 | Craft-as-casting | 0006 | Craft | -- |
+| 14 | Blues-as-simultaneously-honored-and-transcended | 0006 | Structure, Originality | -- |
+| 15 | Dramatic-functional Craft | 0007 | Craft | D (seed) |
+| 16 | Lyric-note unity | 0007 | Craft, Economy | -- |
+| 17 | Harmony-as-melody | 0008 | Structure, Resonance | A (3rd confirmation) |
+| 18 | Economy of the prelude form | 0008 | Economy | -- |
+| 21 | Synthesis originality | 0010 | Originality | E (seed) |
+| 22 | Harmonic emotional precision | 0010 | Craft | -- |
+
+---
+
+## Cluster Status (after work 0009)
+
+**Cluster A: Structural Self-Proof** -- UNCHANGED (works 0001, 0003, 0008)
+*A Love Supreme* is not a Cluster A work. The twelve-key transposition is a universality argument (all instances completed), not a self-proof (the work proves its formal claim by being the demonstration of it). These are related but distinct categories.
+
+**Cluster B: Non-Developmental Architecture** -- UNCHANGED (works 0002, 0004)
+*A Love Supreme* is a hybrid (DEVELOPMENTAL + MODAL) and introduces a potential new structural sub-type (universality-through-exhaustion), but this sub-type is distinct from modal stasis (0002) or tintinnabuli stasis (0004).
+
+**Cluster C: Improvised Music** -- CONFIRMED (works 0005, 0009)
+*A Love Supreme, Part I* is the second improvised work in the SCORE corpus. Four reviewers independently named the improvised-Craft distinction: Coltrane (from inside, as composer reviewing his own improvised passages), Miles, Mingus, and the Music Theorist. This constitutes independent naming at a second work. Cluster C is confirmed. Amendment ratification now required: the Craft dimension must receive a permanent improvisation mode.
+
+**Cluster D: Dramatic Music** -- UNCHANGED (work 0007). Needs one additional musical-theater work.
+
+**Cluster E: Synthesis Music** -- UNCHANGED (work 0010). Needs one additional synthesis work.
+
+**Cluster F: Devotional Music** -- SEEDED (work 0009)
+Innovation #19 (purpose-as-resonance-category) seeds a new cluster: works whose primary purpose is devotional offering rather than audience communication. *A Love Supreme* is the seed. The cluster addresses the Resonance dimension's assumption that the intended effect is on the listener, which fails for devotional music. Needs one additional devotional work to confirm.
+
+## Innovation Summary (all works 0001-0010)
+
+| # | Name | Work | Dimension | Cluster |
+|---|------|------|-----------|---------|
+| 1 | Structural Self-Proof | 0001 | Originality, Structure | A (seed) |
+| 2 | Bidirectional Economy | 0001 | Economy | -- |
+| 3 | Resonance-Proof Gap | 0001 | Resonance | -- |
+| 4 | Economy for One | 0001 | Economy | -- |
+| 5 | Structural Stasis as Formal Argument | 0002 | Structure | B (seed) |
+| 6 | The Mode as Structure | 0002 | Structure | B (confirmed) |
+| 7 | Structural Self-Proof in Developmental Form | 0003 | Originality, Structure | A (confirmed) |
+| 8 | Economy in Developmental Music | 0003 | Economy | -- |
+| 9 | Economy Through Subtraction | 0004 | Economy | B |
+| 10 | Structural Stasis as Spiritual Argument | 0004 | Structure, Resonance | B |
+| 11 | Improvised Craft vs. Composed Craft | 0005 | Craft | C (seed) |
+| 12 | Real-Time Architecture | 0005 | Structure | C |
+| 13 | Craft-as-casting | 0006 | Craft | -- |
+| 14 | Blues-as-simultaneously-honored-and-transcended | 0006 | Structure, Originality | -- |
+| 15 | Dramatic-functional Craft | 0007 | Craft | D (seed) |
+| 16 | Lyric-note unity | 0007 | Craft, Economy | -- |
+| 17 | Harmony-as-melody | 0008 | Structure, Resonance | A (3rd confirmation) |
+| 18 | Economy of the prelude form | 0008 | Economy | -- |
+| 19 | Purpose-as-resonance-category | 0009 | Resonance | F (seed) |
+| 20 | Twelve-key transposition as structural universality claim | 0009 | Structure | -- |
+| 21 | Synthesis originality | 0010 | Originality | E (seed) |
+| 22 | Harmonic emotional precision | 0010 | Craft | -- |

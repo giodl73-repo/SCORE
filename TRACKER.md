@@ -1,11 +1,11 @@
 ﻿# SCORE Tracker
 
 **Rubric version:** v1.1 -- Initial. Five-dimension 100-point rubric seeded: Structure (25), Craft (25), Originality (15), Resonance (15), Economy (20).
-**Works completed:** 5
-**Traditions documented:** 0 (formally; 5 represented in corpus: fugue/canon, modal jazz, symphony, minimalism/tintinnabuli, bebop)
+**Works completed:** 10 (0001-0010, all complete)
+**Traditions documented:** 0 (formally; 9 represented in corpus: fugue/canon, modal jazz, symphony, minimalism/tintinnabuli, bebop, jazz-orchestra, musical-theater, keyboard, classical/popular synthesis)
 **Personas ready:** 10
 **Skills:** 8
-**Active clusters:** 2 confirmed (A, B), 1 seeded (C)
+**Active clusters:** 3 confirmed (A expanded to 3 works, B, C confirmed), 3 seeded (D, E, F)
 
 ## Status
 
@@ -13,11 +13,11 @@
 |-------|--------|
 | Scaffolding | complete |
 | Personas | 10 (founding cohort: Bach, Beethoven, Mozart, Coltrane, Miles, Sondheim, Part, Ellington, Mingus, Bernstein) |
-| Rubric | v1.0 initial -- v1.1 amendments proposed (Cluster A + Cluster B), pending ratification |
-| Traditions | 0 formally documented (5 represented in corpus) |
-| Works | 5 complete (0001-0005) |
-| Innovations logged | 12 (#1-4 from 0001; #5-6 from 0002; #7-8 from 0003; #9-10 from 0004; #11-12 from 0005) |
-| Amendment clusters | Cluster A CONFIRMED (Structural Self-Proof, works 0001+0003); Cluster B CONFIRMED (Non-Developmental Architecture, works 0002+0004); Cluster C SEEDED (Improvised Music, work 0005 -- needs one more work) |
+| Rubric | v1.1 active; v1.2 proposed (Cluster A expanded to 3 works; Cluster C confirmed — ratification required; Clusters D, E, F seeded) |
+| Traditions | 0 formally documented (9 represented in corpus) |
+| Works | 10 complete (0001-0010, all complete) |
+| Innovations logged | 22 (#1-4 from 0001; #5-6 from 0002; #7-8 from 0003; #9-10 from 0004; #11-12 from 0005; #13-14 from 0006; #15-16 from 0007; #17-18 from 0008; #19-20 from 0009; #21-22 from 0010) |
+| Amendment clusters | Cluster A EXPANDED (Structural Self-Proof, works 0001+0003+0008); Cluster B CONFIRMED (Non-Developmental Architecture, works 0002+0004); Cluster C CONFIRMED (Improvised Music, works 0005+0009 -- ratification now required); Cluster D SEEDED (Dramatic Music, work 0007); Cluster E SEEDED (Synthesis Music, work 0010); Cluster F SEEDED (Devotional Music, work 0009) |
 | Skills | 8 (score-brief, score-tradition, score-analyze, score-compose, score-panel, score-innovation, score-amendment, score-handoff) |
 | Lenses | 5 (music-theorist, performer, listener, historian, producer-engineer) |
 
@@ -30,6 +30,11 @@
 | 0003 | beethoven-fifth | symphony | canonical-import | PASS | 95.1 |
 | 0004 | part-spiegel | minimalism/tintinnabuli | canonical-import | PASS | 85.5 |
 | 0005 | parker-koko | bebop improvisation | canonical-import | PASS | 89.4 |
+| 0006 | ellington-koko | jazz-orchestra | canonical-import | PASS | 90.3 |
+| 0007 | sondheim-being-alive | musical-theater | canonical-import | PASS | 91.7 |
+| 0008 | bach-wtc-prelude | keyboard | canonical-import | PASS | 94.4 |
+| 0009 | coltrane-love-supreme | spiritual jazz | canonical-import | PASS | 90.4 |
+| 0010 | bernstein-somewhere | classical/popular synthesis | canonical-import | PASS | 90.2 |
 
 ## Score Distribution
 
@@ -40,6 +45,11 @@
 | 0003-beethoven-fifth | 24.1 | 23.6 | 13.7 | 14.3 | 19.4 | 95.1 |
 | 0004-part-spiegel | 19.1 | 21.4 | 13.1 | 13.5 | 18.4 | 85.5 |
 | 0005-parker-koko | 20.6 | 23.0 | 14.1 | 14.0 | 17.7 | 89.4 |
+| 0006-ellington-koko | 22.0 | 23.8 | 13.1 | 13.7 | 17.7 | 90.3 |
+| 0007-sondheim-being-alive | 22.7 | 23.8 | 13.0 | 13.8 | 18.4 | 91.7 |
+| 0008-bach-wtc-prelude | 23.8 | 24.8 | 12.3 | 13.7 | 19.9 | 94.4 |
+| 0009-coltrane-love-supreme | 22.9 | 22.1 | 13.7 | 14.1 | 17.7 | 90.4 |
+| 0010-bernstein-somewhere | 22.4 | 23.3 | 13.1 | 13.6 | 17.8 | 90.2 |
 
 ## Notable Findings (founding sprint, works 0001-0005)
 
@@ -51,7 +61,27 @@
 **Most surprising finding:** Beethoven scoring Resonance 12 on 0004-part-spiegel -- a piece he described as "almost incomprehensible as music" -- confirming the piece achieves its intended effect even for a reviewer constitutionally hostile to its premises
 **Unanimous Resonance:** 0005-parker-koko -- Coltrane, Miles, AND Beethoven all award Resonance 14; unique in founding sprint
 
-## Innovation Summary (founding sprint)
+## Notable Findings (work 0009)
+
+**Score:** 90.4 — within expected range (88–92); PASS.
+**Cluster C CONFIRMED:** Four reviewers independently named the improvised-Craft distinction at a second improvised work (0005 = seed, 0009 = confirmation). Coltrane named it from inside (reviewing his own improvised passages), Miles named it as a permanent rubric need, Mingus named it from a moral-seriousness frame, the Music Theorist applied it as the formal analytical frame. Cluster C (Improvised Music) is confirmed; amendment ratification now required.
+**Resonance ceiling (15/15) by Coltrane:** First reviewer in SCORE corpus to score a dimension at ceiling with the explicit statement that certainty rather than generosity is the operative principle. Coltrane: "I know what the offering was. I know it achieved what it was for. I am certain in a way that has nothing to do with self-assessment."
+**Innovation #19 (purpose-as-resonance-category):** Named by three reviewers from three positions. The Resonance dimension's audience-communication assumption fails for devotional music. Cluster F seeded.
+**Innovation #20 (twelve-key universality claim):** New structural sub-type identified: "universality-through-exhaustion" — not developmental, not modal, not mathematical-formal, not minimalist-additive. Requires Step 0 expansion.
+**Unanimous Economy agreement:** All three primary reviewers dock Economy for the same passage (closing collective improvisation after the spoken words), for the same reason. Most consistent single-passage finding in the corpus.
+**Miles's Resonance outlier (13):** Miles scores Resonance 2 points below Coltrane and 1 below Mingus, from a non-religious position. Confirms that devotional music's Resonance is tradition-dependent in the same way that musical theater Resonance was tradition-dependent for Bach at work 0010.
+
+## Notable Findings (works 0006-0010, excluding 0009)
+
+**Highest aggregate score:** 0008-bach-wtc-prelude (94.4) -- Cluster A third confirmation elevates the score above expected range
+**Lowest aggregate score:** 0010-bernstein-somewhere (90.2) -- Bach's Resonance outlier (12 vs. 14) reflects tradition-dependence of musical theater Resonance
+**Cluster A expanded:** 0008 adds harmonic-completeness proof as the third Cluster A mechanism (alongside palindromic and developmental); cluster now covers all formal mechanisms of structural self-proof
+**Two new cluster seeds:** Cluster D (Dramatic Music, from 0007) and Cluster E (Synthesis Music, from 0010) both seeded -- each needs one more confirming work
+**Key synthesis finding:** "Somewhere" achieves synthesis originality (classical voice leading + Broadway melodic idiom + polytonal harmonic language) but is assessed as slightly lower in Originality than structural self-proof works because synthesis draws from existing traditions rather than originating from none
+**Most consistent panel agreement:** 0008 -- all three primary reviewers name the Cluster A self-proof from their own angle (Bach: "proves by existing"; Pärt: "the proof is the attending"; Miles: "the harmony is the melody")
+**Largest panel outlier:** Bach's Resonance 12 on "Somewhere" (0010) -- most distant individual score from panel consensus in this sprint; reflects genuine tradition-boundary limitation rather than disagreement about technical quality
+
+## Innovation Summary (all works to date)
 
 | # | Name | Work | Dimension | Cluster |
 |---|------|------|-----------|---------|
@@ -65,12 +95,23 @@
 | 8 | Economy in Developmental Music | 0003 | Economy | -- |
 | 9 | Economy Through Subtraction | 0004 | Economy | B (confirmed) |
 | 10 | Structural Stasis as Spiritual Argument | 0004 | Structure, Resonance | B |
-| 11 | Improvised Craft vs. Composed Craft | 0005 | Craft | C (seed) |
-| 12 | Real-Time Architecture | 0005 | Structure | C |
+| 11 | Improvised Craft vs. Composed Craft | 0005 | Craft | C (seed → confirmed at 0009) |
+| 12 | Real-Time Architecture | 0005 | Structure | C (seed → confirmed at 0009) |
+| 13 | Craft-as-Casting | 0006 | Craft | -- |
+| 14 | Blues-as-Simultaneously-Honored-and-Transcended | 0006 | Structure, Originality | -- |
+| 15 | Dramatic-Functional Craft | 0007 | Craft | D (seed) |
+| 16 | Lyric-Note Unity | 0007 | Craft, Economy | -- |
+| 17 | Harmony-as-Melody | 0008 | Structure, Resonance | A (3rd confirmation) |
+| 18 | Economy of the Prelude Form | 0008 | Economy | -- |
+| 19 | Purpose-as-resonance-category | 0009 | Resonance | F (seed) |
+| 20 | Twelve-key transposition as structural universality claim | 0009 | Structure | -- |
+| 21 | Synthesis Originality | 0010 | Originality | E (seed) |
+| 22 | Harmonic Emotional Precision | 0010 | Craft | -- |
 
 ## Amendment History
 
 | Version | Date | Trigger | Change |
 |---------|------|---------|--------|
 | v1.0 | 2026-04-23 | Initial | Five-dimension 100-point rubric seeded: Structure (25), Craft (25), Originality (15), Resonance (15), Economy (20) |
-| v1.1 | proposed | Cluster A + B confirmation | Add non-developmental architecture and structural self-proof language to Structure anchors; add improvisation mode proposal to Craft (pending Cluster C confirmation) |
+| v1.1 | 2026-04-25 | Cluster A + B confirmation | Add non-developmental architecture and structural self-proof language to Structure anchors; add improvisation mode proposal to Craft (pending Cluster C confirmation) |
+| v1.2 | proposed | Cluster A 3rd confirmation + Clusters C confirmed + D/E/F seeded | Update Cluster A confirmed works to include 0008; ratify Cluster C — add permanent improvisation mode to Craft dimension; add synthesis originality note to Originality anchors; add harmonic-emotional-precision and dramatic-functional-Craft notes to Craft anchors; add harmony-as-melody / harmonic-following to Resonance anchors; add prior-exclusion economy note to Economy anchors; add purpose classification note to Resonance anchors (Cluster F seed); add universality-through-exhaustion sub-type to Structure Step 0 |
