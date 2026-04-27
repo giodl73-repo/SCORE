@@ -1,6 +1,6 @@
-# SCORE Rubric v1.1
+# SCORE Rubric v1.2
 
-*Seeded 2026-04-25. v1.1: Cluster A (structural self-proof) + Cluster B (structural mode classification — developmental / modal-static / mathematical-formal / minimalist-additive).*
+*Seeded 2026-04-25. v1.1: Clusters A+B. v1.2: Cluster C (improvised Craft mode ratified) + Cluster A extended to 3 works + universality-through-exhaustion added as fifth structural type.*
 
 **Forward-only. Amendments ratified from clustered innovations (2+ across 2+ works).**  
 **Advisory threshold: < 60. Binding threshold: 60+.**
@@ -33,7 +33,8 @@ Before applying anchors, classify how the piece builds its architecture:
 | **Modal / Static** | Structure built through sustained tonal gravity; the mode or drone creates the container; material exists within a center rather than moving away from and back to it | The modal center is established and maintained without compromise; the stasis is productive, not empty; every departure from center is intentional |
 | **Mathematical / Formal** | Structure built through formal relationships — palindrome, retrograde, augmentation, inversion, strict canon | The formal relationship is consistently applied; the mathematics produces musical meaning, not just structural correctness |
 | **Minimalist / Additive** | Structure built through gradual change — phase relationships, slow addition or subtraction, textural evolution | Each stage earns the next; change is perceptible but unhurried; the overall arc is felt even when individual steps are imperceptible |
-| **Improvised / Found** *(Cluster C, forming)* | Structure that emerges in performance rather than being composed in advance; the architecture is discovered in real time | See Cluster C note below — pending ratification |
+| **Universality-through-exhaustion** *(v1.2)* | Structure built through systematic completion — transposing a motif through all twelve keys, enumerating all inversions, presenting all canonical transformations — to argue the idea transcends any single instantiation | Every key/form/inversion earns its inclusion; the exhaustion is genuine, not merely additive; the systematic completion produces a felt wholeness |
+| **Improvised / Found** *(Cluster C, ratified v1.2)* | Structure that emerges in performance rather than being composed in advance; the architecture is discovered in real time | The arc was found, not planned; the structure has internal logic even though it was improvised; real-time architecture has its own inevitability |
 
 *Cluster A note (v1.1): Some works prove their structural claim by being the demonstration of that claim — the palindrome proves that musical meaning survives temporal inversion by surviving it; the four-note motif proves it contains a symphony by becoming one. When a work's Structure IS its argument, score at the top of the anchor band if the structural proof is fully achieved. Confirmed: Bach Crab Canon (0001) + Beethoven 5th (0003).*
 
@@ -53,7 +54,16 @@ Before applying anchors, classify how the piece builds its architecture:
 
 Are the technical choices precisely made? Craft is the second largest dimension because technical execution is the medium through which every other dimension is expressed. The highest Originality cannot survive incompetent voice leading. The deepest Resonance is undermined by harmonic choices that produce unintended effects. Craft is not about following rules — it is about knowing the tradition's grammar well enough to deploy it intentionally.
 
-*Cluster C note — Improvised Craft (forming, v1.1):* The current Craft anchors are written-craft anchors: they assess harmony, voice leading, and technical choices as if those choices were made before performance and could be revised. For improvised music (bebop, jazz improvisation, raga), the technical choices are made at tempo, in real time, without revision. Improvised Craft requires different criteria: real-time harmonic navigation (playing the right note on the change without hesitation), motor execution at tempo (technical facility that doesn't impede expression), and melodic logic under pressure (the improvised solo has a shape that was found in the moment). SCORE is working toward a Craft mode classification analogous to the Structure mode classification. Pending: one more improvised work to confirm the cluster. Works featuring improvisation should note "improvised Craft criteria applied" and score based on the quality of real-time choices rather than the correctness of pre-composed ones.*
+*Cluster C — Improvised Craft mode (ratified v1.2):* For improvised music (bebop, free jazz, raga, extensive improvised passages within composed frameworks), apply the Improvised Craft criteria rather than the written-craft anchors:
+
+| Written Craft | Improvised Craft |
+|--------------|-----------------|
+| Voice leading precision (pre-composed) | Real-time harmonic navigation (correct note on the change without hesitation) |
+| Structural choices reviewed and revised | Structural choices found in motion, without revision |
+| Technical difficulty relative to musical result (any qualified performer) | Technical facility not impeding expression in real time |
+| Melodic logic as compositional argument | Melodic logic as discovered shape — the arc found in the moment |
+
+When scoring improvised Craft: note "Improvised Craft criteria applied" and assess the quality of real-time choices. A brilliant improvised solo may score as high as a brilliant composed passage; an average improvised solo scores lower than average composed work because improvisation does not permit revision. Confirmed: Parker Ko-Ko (0005) + Coltrane Love Supreme (0009).*
 
 Craft is tradition-specific. What constitutes correct voice leading in a Bach chorale is not what is expected in a Coltrane improvisation. What counts as acceptable parallel motion in a folk song is different from what is tolerated in strict counterpoint. Score Craft against the standards of the tradition being worked in, not against a universal technical standard.
 
@@ -138,4 +148,5 @@ Amendments never reduce the point totals or change the dimension weights without
 | Version | Date | Trigger | Change |
 |---------|------|---------|--------|
 | v1.0 | 2026-04-25 | Initial | Five-dimension 100-point rubric seeded: Structure (25), Craft (25), Originality (15), Resonance (15), Economy (20) |
-| v1.1 | 2026-04-25 | Cluster A + Cluster B | (A) Structure: structural self-proof note added to 22–25 anchor — works that prove their formal claim by being the demonstration score at the top band when fully achieved. Confirmed: Bach Crab Canon (0001) + Beethoven 5th (0003). (B) Structure: Step 0 (structural approach classification) added — Developmental / Modal-Static / Mathematical-Formal / Minimalist-Additive; score against the demands of the identified approach. Confirmed: So What (0002, modal) + Spiegel (0004, minimalist). Cluster C (improvised Craft) seeded from Parker Ko-Ko (0005) — pending one more work. Forward-only. |
+| v1.1 | 2026-04-25 | Cluster A + Cluster B | (A) Structure: structural self-proof note added to 22–25 anchor. Confirmed: Bach Crab Canon (0001) + Beethoven 5th (0003). (B) Structure: Step 0 added — Developmental / Modal-Static / Mathematical-Formal / Minimalist-Additive. Confirmed: So What (0002) + Spiegel (0004). Cluster C seeded. Forward-only. |
+| v1.2 | 2026-04-25 | Cluster C ratified + Cluster A third confirmation + Universality-through-exhaustion | (C) Craft: Improvised Craft mode ratified — written-craft vs. improvised-craft criteria table added; real-time harmonic navigation, motor execution at tempo, melodic logic under pressure replace pre-composition criteria for improvised music. Confirmed: Parker Ko-Ko (0005) + Coltrane Love Supreme (0009). Structure Step 0: universality-through-exhaustion added as sixth structural type (twelve-key transposition as universality argument). Coltrane Love Supreme confirmed. Cluster A third confirmation: WTC Prelude (harmony without melody = complete expression). Clusters D (dramatic-functional Craft), E (synthesis originality), F (devotional Resonance) all seeded. Forward-only. |

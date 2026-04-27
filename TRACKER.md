@@ -1,6 +1,6 @@
 ﻿# SCORE Tracker
 
-**Rubric version:** v1.1 -- Initial. Five-dimension 100-point rubric seeded: Structure (25), Craft (25), Originality (15), Resonance (15), Economy (20).
+**Rubric version:** v1.2 -- Initial. Five-dimension 100-point rubric seeded: Structure (25), Craft (25), Originality (15), Resonance (15), Economy (20).
 **Works completed:** 10 (0001-0010, all complete)
 **Traditions documented:** 0 (formally; 9 represented in corpus: fugue/canon, modal jazz, symphony, minimalism/tintinnabuli, bebop, jazz-orchestra, musical-theater, keyboard, classical/popular synthesis)
 **Personas ready:** 10
