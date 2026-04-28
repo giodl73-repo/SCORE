@@ -155,4 +155,6 @@ Score range: — · Advisory threshold < 60
 
 ---
 
-MIT License · © 2026 Gio Della-Libera
+## License
+
+[MIT](LICENSE) — © 2026 Gio Della-Libera.
