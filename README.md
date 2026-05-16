@@ -8,6 +8,10 @@ Claude Code-driven. Markdown-first. The rubric evolves from panel sessions — e
 
 A sibling to [ASPECT](../degas/) (visualization) and [PROSE](../prose/) (writing). Same methodology. Different medium.
 
+**Review roles:** This repo uses
+[ROLES](https://github.com/giodl73-repo/ROLES), the `.roles` convention for
+repository-local review panels.
+
 ---
 
 ## The SCORE Dimensions
