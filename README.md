@@ -153,6 +153,17 @@ SCORE/
 Rubric v1.0 SCORE · 0 works · 10 personas · 8 skills  
 Score range: — · Advisory threshold < 60
 
+## Retained proof
+
+```powershell
+pwsh -NoProfile -File tests\check-proof.ps1
+pwsh -NoProfile -File tools\check-score-summary.ps1 works\0001-bach-crab-canon\panel\SUMMARY.md
+```
+
+The canonical Bach panel is accepted with all five weighted dimensions, a
+bounded aggregate, and a structured gate. The retained incomplete fixture is
+rejected with `missing weighted dimension: Economy`.
+
 ---
 
 *Built in the SCORE music studio. Named for the rubric: every good piece of music earns its Structure, demonstrates its Craft, achieves its Originality, creates its Resonance, and practices Economy. And named for what music is written as — the score that allows a composer's conception to travel across time.*
