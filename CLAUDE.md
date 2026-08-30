@@ -103,11 +103,11 @@ sources: []
 ## Current State
 
 - **Rubric version:** v1.3 (active) — 6 dimensions amended across 4 versions; 7 structural types in Step 0; 5 clusters confirmed (A, B, C, D, E); 1 cluster seeded (F — devotional Resonance, needs 1 more work)
-- **Works completed:** 16 (0001–0016, all PASS) — 13 canonical + 3 original
+- **Works completed:** 17 (0001–0017, all PASS) — 14 canonical + 3 original; 0018 has draft/panel material but no retained summary yet
 - **Score range:** 82.1 (So What, 0002) — 95.1 (Beethoven 5th, 0003)
-- **Innovations logged:** 32 (#1–32)
-- **Latest handoff:** `docs/handoff/2026-04-25-session-2.md`
-- **Top priority:** Confirm Cluster F (devotional Resonance) — candidate: Bach "Erbarme Dich" (St. Matthew Passion)
+- **Innovations logged:** 32 (#1–32) in `scoring/INNOVATIONS.md`; 0017 proposes #33–34 but the log has not been reconciled yet
+- **Latest handoff:** `docs/handoff/2026-04-25-session-2.md` (stale relative to 0017/0018 work artifacts)
+- **Top priority:** Reconcile the 0017 Cluster F / #33–34 innovation records, then complete or explicitly park 0018.
 
 ## Editorial Rules
 

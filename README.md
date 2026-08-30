@@ -98,6 +98,8 @@ Three personas are chosen for tradition alignment — a primary (most identified
 
 Each reviewer produces a score table across all five SCORE dimensions, a voiced review in the persona's register, and 1-2 flagged innovations — structural techniques the current rubric does not yet name.
 
+The composer voices and review panels are structured analytic devices, not external musicological, historical, licensing, or canonical authority.
+
 The SUMMARY aggregates the scores (weighted: primary 30%, secondary 25%, tertiary 20%, lens 1 15%, lens 2 10%), surfaces the tensions, logs innovations, checks for cluster formation, and determines gate status.
 
 ### Score Table
@@ -118,7 +120,7 @@ The SUMMARY aggregates the scores (weighted: primary 30%, secondary 25%, tertiar
 ```
 SCORE/
 ├── scoring/
-│   ├── RUBRIC.md               SCORE v1.0
+│   ├── RUBRIC.md               SCORE v1.3
 │   └── INNOVATIONS.md          innovations log, append-only
 ├── traditions/                 tradition grammar documents
 ├── personas/                   10 historical composers + 5 lenses
@@ -150,8 +152,8 @@ SCORE/
 
 ## Status
 
-Rubric v1.0 SCORE · 0 works · 10 personas · 8 skills  
-Score range: — · Advisory threshold < 60
+Rubric v1.3 SCORE · 17 complete works · 10 personas · 8 skills
+Score range: 82.1-95.1 · Advisory threshold < 60
 
 ## Retained proof
 
@@ -178,4 +180,7 @@ documentation are MIT-licensed (copyright Gio Della-Libera). Original
 non-software content is licensed CC BY-NC 4.0 (copyright Gio Della-Libera);
 commercial use of that content requires separate written permission.
 Third-party material remains under its own terms.
+SCORE analysis files do not transfer custody or redistribution rights for
+underlying third-party music, lyrics, recordings, editions, scores, or source
+material.
 See [LICENSE](./LICENSE) for the complete notice.

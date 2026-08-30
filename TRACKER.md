@@ -1,7 +1,7 @@
 ﻿# SCORE Tracker
 
-**Rubric version:** v1.3 (active) -- v1.3 amendment ratification required (Clusters D + E confirmed; new Step 0 sub-types proposed)
-**Works completed:** 16 (0001-0016, all complete)
+**Rubric version:** v1.3 (active) -- v1.3 amendment ratified in `scoring/RUBRIC.md`; 0017 proposes v1.4 Cluster F language that still needs ledger reconciliation
+**Works completed:** 17 (0001-0017, all complete; 0018 has draft/panel material but no retained summary yet)
 **Traditions documented:** 0 (formally; 12 represented in corpus: fugue/canon, modal jazz, symphony, minimalism/tintinnabuli, bebop, jazz-orchestra, musical-theater, keyboard, classical/popular synthesis, jazz-standard [original], jazz/classical synthesis, Hindustani classical [raga])
 **Personas ready:** 10
 **Skills:** 8
@@ -15,9 +15,9 @@
 | Personas | 10 (founding cohort: Bach, Beethoven, Mozart, Coltrane, Miles, Sondheim, Part, Ellington, Mingus, Bernstein) |
 | Rubric | v1.2 active; v1.3 proposed (Clusters D + E confirmed; new Step 0 sub-types: developmental-through-rupture, modal-revelatory; Non-Western Craft note; Dramatic-Functional Craft ratification; Synthesis Completeness tier) |
 | Traditions | 0 formally documented (12 represented in corpus) |
-| Works | 16 complete (0001-0016, all complete) |
-| Innovations logged | 32 (#1-4 from 0001; #5-6 from 0002; #7-8 from 0003; #9-10 from 0004; #11-12 from 0005; #13-14 from 0006; #15-16 from 0007; #17-18 from 0008; #19-20 from 0009; #21-22 from 0010; #23-24 from 0011; #25-26 from 0012; #27-28 from 0013; #29-30 from 0014; #31-32 from 0015) |
-| Amendment clusters | Cluster A CONFIRMED (Structural Self-Proof, works 0001+0003+0008; 0014 possible 4th instance under review); Cluster B CONFIRMED (Non-Developmental Architecture, works 0002+0004); Cluster C CONFIRMED (Improvised Music, works 0005+0009 — ratified v1.2); Cluster D CONFIRMED (Dramatic-Functional Craft, works 0007+0012 — ratification required v1.3); Cluster E CONFIRMED (Synthesis Originality, works 0010+0013 — ratification required v1.3); Cluster F SEEDED (Devotional Music, work 0009) |
+| Works | 17 complete (0001-0017, all complete); 0018 in progress without retained summary |
+| Innovations logged | 32 (#1-4 from 0001; #5-6 from 0002; #7-8 from 0003; #9-10 from 0004; #11-12 from 0005; #13-14 from 0006; #15-16 from 0007; #17-18 from 0008; #19-20 from 0009; #21-22 from 0010; #23-24 from 0011; #25-26 from 0012; #27-28 from 0013; #29-30 from 0014; #31-32 from 0015); 0017 proposes #33-34 but `scoring/INNOVATIONS.md` is not reconciled |
+| Amendment clusters | Cluster A CONFIRMED (Structural Self-Proof, works 0001+0003+0008; 0014 possible 4th instance under review); Cluster B CONFIRMED (Non-Developmental Architecture, works 0002+0004); Cluster C CONFIRMED (Improvised Music, works 0005+0009 — ratified v1.2); Cluster D CONFIRMED (Dramatic-Functional Craft, works 0007+0012 — ratified v1.3); Cluster E CONFIRMED (Synthesis Originality, works 0010+0013 — ratified v1.3); Cluster F CONFIRMED in 0017 summary but not yet reconciled into `scoring/INNOVATIONS.md` or a v1.4 rubric row |
 | Skills | 8 (score-brief, score-tradition, score-analyze, score-compose, score-panel, score-innovation, score-amendment, score-handoff) |
 | Lenses | 5 (music-theorist, performer, listener, historian, producer-engineer) |
 
@@ -41,6 +41,7 @@
 | 0014 | stravinsky-rite-spring | modern classical | canonical-import | PASS | 90.1 |
 | 0015 | shankar-raga-yaman | Hindustani classical (raga) | canonical-import | PASS | 88.35 |
 | 0016 | original-jazz-v2 | jazz-standard (original, revision) | original-composition | PASS | 89.25 |
+| 0017 | bach-erbarme-dich | Baroque sacred/dramatic | canonical-import | PASS | 92.3 |
 
 ## Score Distribution
 

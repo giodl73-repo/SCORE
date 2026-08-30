@@ -54,6 +54,12 @@ If gate ADVISORY or FAIL on an original composition:
 
 Innovations are logged after every panel. Clusters are checked after every innovation batch. Amendments are ratified immediately when a cluster is confirmed — they do not wait for end-of-session. The rubric version in the active work's frontmatter reflects the version at time of panel, not at time of composition.
 
+A panel summary is not itself permission to publish, amend, rescore, revise a
+composition, or redistribute source material. Use `score-amendment` only after
+the cluster threshold is met, use a named rescore batch before changing a
+completed score, and check source-rights boundaries before packaging canonical
+examples or public excerpts.
+
 ## The Unit-of-Work Question
 
 SCORE reviews three types of object:
