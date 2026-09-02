@@ -36,6 +36,23 @@ foreach ($field in @(
 )) {
   Assert-Contains $pitfalls $field ".pitfall\score-pitfalls.md"
 }
+Assert-Contains $pitfalls "MITIGATED" ".pitfall\score-pitfalls.md"
+
+$manifest = Read-RepoFile "docs\pitfall-boundaries.v1.json"
+foreach ($needle in @(
+  "SCORE-PF-01",
+  "SCORE-PF-04",
+  "SCORE-PF-06",
+  "0017 fully ledger-reconciled",
+  "0018 complete",
+  "definitive musicological authority",
+  "final music authority",
+  "panel summary is composition command",
+  "summary permits source redistribution",
+  "allowed workflow"
+)) {
+  Assert-Contains $manifest $needle "docs\pitfall-boundaries.v1.json"
+}
 
 $tracker = Read-RepoFile "TRACKER.md"
 Assert-Contains $tracker "0017 proposes #33-34" "TRACKER.md"
@@ -64,6 +81,10 @@ $roles = Read-RepoFile ".roles\ROLE.md"
 Assert-Contains $roles "Use Composition Craft Auditor for structure, harmony, rhythm, texture, or form." ".roles\ROLE.md"
 Assert-Contains $roles "Use Listener Response Reviewer when a piece claims a listener effect." ".roles\ROLE.md"
 Assert-Contains $roles "Use Rubric Steward before changing dimensions, weights, or scoring protocol." ".roles\ROLE.md"
+Assert-Contains $roles "PITFALL gate routing" ".roles\ROLE.md"
+Assert-Contains $roles "ledger-reconciled" ".roles\ROLE.md"
+Assert-Contains $roles "final music" ".roles\ROLE.md"
+Assert-Contains $roles "skip dissent and workflow selection" ".roles\ROLE.md"
 
 $license = Read-RepoFile "LICENSE"
 Assert-Contains $license "Third-party material and dependencies remain subject to their own licenses." "LICENSE"

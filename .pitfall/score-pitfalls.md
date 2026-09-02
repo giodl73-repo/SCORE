@@ -2,7 +2,7 @@
 
 ## SCORE-PF-01: Late Work Outruns The Ledger
 
-**Status:** OPEN
+**Status:** MITIGATED
 
 **Pattern:** New work artifacts, cluster confirmations, or innovation IDs are created without updating `TRACKER.md`, `CLAUDE.md`, `scoring/INNOVATIONS.md`, and the rubric amendment history together.
 
@@ -22,9 +22,16 @@
 
 **Detection difficulty:** A repo can look active and useful while its status docs send agents toward already-finished work or reuse innovation IDs.
 
-**Structural solution:** Reconcile 0017 Cluster F and #33-34 into the innovation ledger and v1.4 rubric plan, then either complete 0018 with a retained summary or explicitly park it as draft.
+**Structural solution:** Reconcile 0017 Cluster F and #33-34 into the
+innovation ledger and v1.4 rubric plan, then either complete 0018 with a
+retained summary or explicitly park it as draft; until then, keep the
+unreconciled/draft boundary machine-readable and test-backed.
 
-**Evidence:** PITFALL adoption updated `README.md`, `CLAUDE.md`, and `TRACKER.md`; `works/0017-bach-erbarme-dich/panel/SUMMARY.md`; `works/0018-johnson-cross-road-blues/`; `scoring/INNOVATIONS.md`.
+**Evidence:** `docs/pitfall-boundaries.v1.json`; PITFALL adoption updated
+`README.md`, `CLAUDE.md`, and `TRACKER.md`;
+`works/0017-bach-erbarme-dich/panel/SUMMARY.md`;
+`works/0018-johnson-cross-road-blues/`; `scoring/INNOVATIONS.md`; and
+`tests/check-pitfall-policy.ps1`.
 
 **Test:** `pwsh -NoProfile -File tests\check-pitfall-policy.ps1`.
 
@@ -58,7 +65,7 @@
 
 ## SCORE-PF-04: Persona Authority Becomes Music Authority
 
-**Status:** OPEN
+**Status:** MITIGATED
 
 **Pattern:** Persona panels, weighted scores, or role reviews are presented as definitive musicological, historical, licensing, or canonical authority.
 
@@ -78,9 +85,13 @@
 
 **Detection difficulty:** Persona prose can sound authoritative even when it is a structured analytic device.
 
-**Structural solution:** Keep SCORE claims framed as rubric-bounded analysis, and preserve third-party source and rights boundaries in public surfaces.
+**Structural solution:** Keep SCORE claims framed as rubric-bounded analysis,
+and preserve third-party source and rights boundaries in public surfaces, role
+routing, and the machine-readable boundary manifest.
 
-**Evidence:** `README.md`, `LICENSE`, `.roles/ROLE.md`, `works/*/panel/*.md`, and `works/*/work-description.md`.
+**Evidence:** `docs/pitfall-boundaries.v1.json`, `README.md`, `LICENSE`,
+`.roles/ROLE.md`, `works/*/panel/*.md`, `works/*/work-description.md`, and
+`tests/check-pitfall-policy.ps1`.
 
 **Test:** `pwsh -NoProfile -File tests\check-pitfall-policy.ps1`.
 
@@ -100,7 +111,7 @@
 
 ## SCORE-PF-06: Panel Summary Becomes Composition Or Rubric Command
 
-**Status:** OPEN
+**Status:** MITIGATED
 
 **Pattern:** A user treats a panel `SUMMARY.md`, weighted score, PASS label,
 innovation cluster, tradition note, or handoff as a direct command to change a
@@ -132,9 +143,11 @@ dissent retention, or no action.
 
 **Structural solution:** Music review outputs should show artifact status,
 allowed next workflow, tradition scope, amendment/rescore eligibility, dissent
-status, source-rights boundary, and safe handoff path together.
+status, source-rights boundary, and safe handoff path together, with role
+routing before summaries become commands.
 
-**Evidence:** `README.md`, `CLAUDE.md`, `TRACKER.md`, `scoring/RUBRIC.md`,
-`.roles/ROLE.md`, and `works/*/panel/SUMMARY.md`.
+**Evidence:** `docs/pitfall-boundaries.v1.json`, `README.md`, `CLAUDE.md`,
+`TRACKER.md`, `scoring/RUBRIC.md`, `.roles/ROLE.md`,
+`works/*/panel/SUMMARY.md`, and `tests/check-pitfall-policy.ps1`.
 
 **Test:** `pwsh -NoProfile -File tests\check-pitfall-policy.ps1`.

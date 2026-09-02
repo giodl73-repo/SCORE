@@ -59,3 +59,21 @@
 **Evidence:** `TRACKER.md`, `CLAUDE.md`, `works/0018-johnson-cross-road-blues/`, and absence of `works/0018-johnson-cross-road-blues/panel/SUMMARY.md`.
 
 **Test:** `pwsh -NoProfile -File tests\check-proof.ps1`.
+
+## SCORE-I-06: Ledger, Authority, And Workflow Boundaries Are Machine-Readable
+
+**Status:** VERIFIED
+
+**Invariant:** SCORE keeps ledger reconciliation, music authority, and
+panel-summary follow-up boundaries in a machine-readable manifest that is
+enforced by the focused pitfall policy checker.
+
+**Why it matters:** SCORE's panels are intentionally decisive; without explicit
+boundaries, draft work can look complete, persona analysis can sound like music
+authority, and summaries can become commands.
+
+**Evidence:** `docs/pitfall-boundaries.v1.json`, `.roles/ROLE.md`,
+`TRACKER.md`, `CLAUDE.md`, `README.md`, `docs/PIPELINE.md`, `LICENSE`, and
+`tests/check-pitfall-policy.ps1`.
+
+**Test:** `pwsh -NoProfile -File tests\check-pitfall-policy.ps1`.

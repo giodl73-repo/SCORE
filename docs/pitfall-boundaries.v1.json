@@ -1,0 +1,111 @@
+{
+  "$schema": "score.pitfall-boundaries.v1",
+  "owner": "SCORE maintainers",
+  "purpose": "Machine-readable boundaries for ledger reconciliation, music authority, and panel-summary follow-up actions.",
+  "authority": {
+    "work_status": "TRACKER, CLAUDE handoff, retained panel summary, and checker-accepted status record together",
+    "rubric_ledger": "scoring/INNOVATIONS.md and forward-only rubric amendment history",
+    "persona_panel": "rubric-bounded analytic device with composer/persona disagreement",
+    "music_authority": "source evidence, rights holder, qualified domain expert, or external musicological source",
+    "follow_up_action": "explicit SCORE workflow selected by maintainer, craft, audience, or rubric review"
+  },
+  "pitfall_boundaries": [
+    {
+      "entryId": "SCORE-PF-01",
+      "requiredOwners": [
+        "Rubric Steward",
+        "SCORE maintainer"
+      ],
+      "sourceLayer": "works 0017-0018, Cluster F, innovation IDs 33-34, handoff docs, README status, and future rubric v1.4 work",
+      "maySupport": [
+        "draft work status",
+        "proposed innovation",
+        "cluster candidate",
+        "handoff priority",
+        "future rubric plan"
+      ],
+      "blockedClaims": [
+        "0017 fully ledger-reconciled",
+        "0018 complete",
+        "innovation IDs safe to reuse",
+        "v1.4 reconciliation complete",
+        "completed-work count includes draft",
+        "rubric amendment ratified"
+      ],
+      "requiredEvidence": [
+        "TRACKER status",
+        "CLAUDE handoff status",
+        "scoring/INNOVATIONS.md row",
+        "retained panel SUMMARY",
+        "checker-accepted summary",
+        "rubric amendment history"
+      ]
+    },
+    {
+      "entryId": "SCORE-PF-04",
+      "requiredOwners": [
+        "Rubric Steward",
+        "Composition Craft Auditor",
+        "Listener Response Reviewer"
+      ],
+      "sourceLayer": "README claims, work descriptions, persona reviews, public explanations, and customer-facing reuse",
+      "maySupport": [
+        "rubric-bounded music analysis",
+        "persona disagreement",
+        "weighted SCORE result",
+        "public explanation draft",
+        "source-rights review trigger"
+      ],
+      "blockedClaims": [
+        "definitive musicological authority",
+        "historical authority",
+        "licensing authority",
+        "canonical authority",
+        "final music authority",
+        "source-rights transfer"
+      ],
+      "requiredEvidence": [
+        "rubric version",
+        "source evidence",
+        "rights boundary",
+        "role review",
+        "external authority citation when making external claims"
+      ]
+    },
+    {
+      "entryId": "SCORE-PF-06",
+      "requiredOwners": [
+        "Composition Craft Auditor",
+        "Listener Response Reviewer",
+        "Rubric Steward"
+      ],
+      "sourceLayer": "panel summaries, score-innovation, score-amendment, score-handoff, tradition documentation, rescore batches, work descriptions, and customer-facing reuse",
+      "maySupport": [
+        "composition revision candidate",
+        "tradition documentation candidate",
+        "rubric amendment candidate",
+        "named rescore candidate",
+        "dissent record",
+        "safe handoff"
+      ],
+      "blockedClaims": [
+        "panel summary is composition command",
+        "panel summary is rubric command",
+        "PASS label permits publication",
+        "innovation cluster ratifies amendment alone",
+        "tradition note decides workflow",
+        "handoff skips dissent",
+        "summary permits source redistribution"
+      ],
+      "requiredEvidence": [
+        "artifact status",
+        "allowed workflow",
+        "tradition scope",
+        "amendment or rescore eligibility",
+        "dissent status",
+        "source-rights boundary",
+        "safe handoff path"
+      ]
+    }
+  ]
+}
